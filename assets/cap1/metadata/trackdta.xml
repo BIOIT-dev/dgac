@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tracking-metadata generator="Presenter ver 7.0" version="1.0">
+	<objective id="Prueba10393" max-score="20" passing-score="16" min-score="0">
+		<name>Prueba1</name>
+		<interactions>
+			<interaction id="Interacción10398" type="fill-in" score="2" correct-response="{2,hábiles,Personal}">
+				<title> En caso de enfermedad que le impida asistir a la  institución, Ud. deberá presentar una licencia médica,  firmada por un doctor competente, en un plazo máximo  de &lt;1&gt;días &lt;2&gt;siguientes para entregarla en la  Oficina de  &lt;3&gt;de su Unidad. 
+ </title>
+				<responses>
+					<response id="1">
+						<option id="1">2</option>
+						<option id="2">4</option>
+						<option id="3">3</option>
+						<option id="4">1</option>
+					</response>
+					<response id="2">
+						<option id="1">hábiles</option>
+						<option id="2">sucesivos</option>
+					</response>
+					<response id="3">
+						<option id="1">Personal</option>
+						<option id="2">Logística</option>
+						<option id="3">Dirección</option>
+						<option id="4">Secretaría</option>
+					</response>
+				</responses>
+			</interaction>
+			<interaction id="Interacción10418" type="fill-in" score="2" correct-response="{Estatuto Administrativo,44}">
+				<title> Las obligaciones de los funcionarios están  establecidas en el &lt;1&gt;, entre los artículos 61  al 64, destacándose los siguientes:  Desempeñar personalmente las funciones  del cargo en forma regular y continua, cumpliendo con una jornada de trabajo de  &lt;2&gt;horas semanales.   
+ </title>
+				<responses>
+					<response id="1">
+						<option id="1">Estatuto Administrativo</option>
+						<option id="2">Reglamento de disciplina</option>
+						<option id="3">Decreto de administración</option>
+					</response>
+					<response id="2">
+						<option id="1">44</option>
+						<option id="2">40</option>
+						<option id="3">48</option>
+						<option id="4">42</option>
+					</response>
+				</responses>
+			</interaction>
+			<interaction id="Interacción10433" type="fill-in" score="2" correct-response="{descanso complementario,recargo en las remuneraciones}">
+				<title> LOS TRABAJOS EXTRAORDINARIOS   . &lt;1&gt;Se compensarán con                                      si ello no fuere posible por razones de buen servicio,  aquellos serán compensados con un &lt;2&gt;.  
+ </title>
+				<responses>
+					<response id="1">
+						<option id="1">descanso complementario</option>
+						<option id="2">remuneraciones</option>
+					</response>
+					<response id="2">
+						<option id="1">recargo en las remuneraciones</option>
+						<option id="2">descanso complementario</option>
+					</response>
+				</responses>
+			</interaction>
+			<interaction id="Interacción10445" type="fill-in" score="2" correct-response="{desempeño laboral ,anual,dos}">
+				<title> EVALUACIÓN DEL DESEMPEÑO: Sistema cuyo  objetivo es evaluar el &lt;1&gt;del funcionario. La evaluación es &lt;2&gt;dividido en &lt;3&gt;  parcialidades.  
+ </title>
+				<responses>
+					<response id="1">
+						<option id="1">desempeño laboral </option>
+						<option id="2">desempeño administrativo</option>
+						<option id="3">aprendizaje laboral</option>
+						<option id="4">cumplimiento de metas</option>
+					</response>
+					<response id="2">
+						<option id="1">anual</option>
+						<option id="2">semestral</option>
+						<option id="3">trimestral</option>
+						<option id="4">periodica</option>
+					</response>
+					<response id="3">
+						<option id="1">dos</option>
+						<option id="2">tres</option>
+						<option id="3">cuatro</option>
+					</response>
+				</responses>
+			</interaction>
+			<interaction id="Interacción10466" type="fill-in" score="2" correct-response="21">
+				<title> INFORMACIÓN SOBRE REMUNERACIONES:   
+Remuneración, es cualquier  contraprestación en dinero  
+que el  funcionario tenga derecho a percibir en razón de  
+su empleo,  sueldo, asignación de  zona y otras (…) en  
+las fechas efectivas de  pago que el establezca. En la  
+ y  DGAC.,  corresponde mensualmente al día &lt;1&gt;Lo que considera la totalidad de días del mes.     
+
+ </title>
+				<responses>
+					<response id="1">
+						<option id="1">21</option>
+						<option id="2">15</option>
+						<option id="3">31</option>
+						<option id="4">30</option>
+						<option id="5">5</option>
+					</response>
+				</responses>
+			</interaction>
+			<interaction id="Interacción10562" type="choice" score="10" correct-response="C">
+				<name>Opción múltiple</name>
+				<title>SE ENTIENDE POR FERIADO LEGAL, el descanso a que tiene derecho el funcionario, con goce de todas las remuneraciones durante el tiempo y bajo las condiciones que más adelante se establecen para cada año calendario y será de:  I. Quince días hábiles para los funcionarios con menos de quince años de servicio. II. Veinte días hábiles para los funcionarios con más de quince y menos de veinte años de servicios. III. Veintiún días para aquellos que provengan del servicio público. IV. Veinticinco días hábiles para los funcionarios con veinte o más años de servicio. V. Diez días hábiles para aquellos que no tendiendo derecho, lo soliciten.  </title>
+				<responses>
+					<response id="A">  Solo I es correcta </response>
+					<response id="B">  Solo II es correcta </response>
+					<response id="C">  I, II, IV  son correctas </response>
+					<response id="D">  I, II, III, IV son correctas </response>
+					<response id="E">  I, II, III, IV, V son correctas </response>
+				</responses>
+			</interaction>
+		</interactions>
+	</objective>
+	<objective id="Prueba10312" max-score="18" passing-score="14" min-score="0">
+		<name>Prueba2</name>
+		<interactions>
+			<interaction id="Interacción10317" type="choice" score="2" correct-response="A">
+				<name>Opción múltiple</name>
+				<title>Las prohibiciones están establecidas en el artículo 84º del Estatuto Administrativo.  Seleccione la alternativa A o B , según corresponda a una PROHIBICIÓN </title>
+				<responses>
+					<response id="A"> Ejercer facultades, atribuciones o representación de las que no esté legalmente investido, o no le hayan sido delegadas. </response>
+					<response id="B"> Ejercer facultades, atribuciones o representación de las que esté legalmente investido, o no le hayan sido delegadas. </response>
+				</responses>
+			</interaction>
+			<interaction id="Interacción10325" type="choice" score="2" correct-response="B">
+				<name>Opción múltiple</name>
+				<title>Las prohibiciones están establecidas en el artículo 84º del Estatuto Administrativo.  Seleccione la alternativa A o B , según corresponda a una PROHIBICIÓN </title>
+				<responses>
+					<response id="A"> No Intervenir, en razón de sus funciones, en asuntos en que tenga interés él, su cónyuge o sus parientes consanguíneos. </response>
+					<response id="B"> Intervenir, en razón de sus funciones, en asuntos en que tenga interés él, su cónyuge o sus parientes consanguíneos. </response>
+				</responses>
+			</interaction>
+			<interaction id="Interacción10333" type="choice" score="2" correct-response="A">
+				<name>Opción múltiple</name>
+				<title>Las prohibiciones están establecidas en el artículo 84º del Estatuto Administrativo.  Seleccione la alternativa A o B , según corresponda a una PROHIBICIÓN </title>
+				<responses>
+					<response id="A"> Actuar directa o indirectamente contra los intereses del Estado o de las Instituciones. </response>
+					<response id="B"> No actuar directa o indirectamente contra los intereses del Estado o de las Instituciones. </response>
+				</responses>
+			</interaction>
+			<interaction id="Interacción10341" type="choice" score="2" correct-response="B">
+				<name>Opción múltiple</name>
+				<title>Las prohibiciones están establecidas en el artículo 84º del Estatuto Administrativo. Seleccione la alternativa A o B , según corresponda a una PROHIBICIÓN </title>
+				<responses>
+					<response id="A"> No Intervenir ante los tribunales de justicia como parte, testigo o perito, respecto de hechos de que hubiere tomado conocimiento en el ejercicio de sus funciones, o declarar en juicio que tenga interés el Estado o sus organismos, sin previa comunicación a su superior jerárquico </response>
+					<response id="B"> Intervenir ante los tribunales de justicia como parte, testigo o perito, respecto de hechos de que hubiere tomado conocimiento en el ejercicio de sus funciones, o declarar en juicio que tenga interés el Estado o sus organismos, sin previa comunicación a su superior jerárquico. </response>
+				</responses>
+			</interaction>
+			<interaction id="Interacción10349" type="choice" score="2" correct-response="A">
+				<name>Opción múltiple</name>
+				<title>Las prohibiciones están establecidas en el artículo 84º del Estatuto Administrativo.  Seleccione la alternativa A o B , según corresponda a una PROHIBICIÓN </title>
+				<responses>
+					<response id="A"> Someter a tramitación innecesaria los asuntos entregados a su conocimiento o resolución. </response>
+					<response id="B"> Someter a tramitación los asuntos entregados a su conocimiento o resolución. </response>
+				</responses>
+			</interaction>
+			<interaction id="Interacción10357" type="choice" score="2" correct-response="A">
+				<name>Opción múltiple</name>
+				<title>Las prohibiciones están establecidas en el artículo 84º del Estatuto Administrativo.  Seleccione la alternativa A o B , según corresponda a una PROHIBICIÓN </title>
+				<responses>
+					<response id="A"> Solicitar, hacerse prometer, o aceptar donativos, ventajas o privilegios de cualquier naturaleza  </response>
+					<response id="B"> No aceptar donativos, ventajas o privilegios de cualquier naturaleza. </response>
+				</responses>
+			</interaction>
+			<interaction id="Interacción10365" type="choice" score="2" correct-response="B">
+				<name>Opción múltiple</name>
+				<title>Las prohibiciones están establecidas en el artículo 84º del Estatuto Administrativo.  Seleccione la alternativa A o B , según corresponda a una PROHIBICIÓN </title>
+				<responses>
+					<response id="A"> Ejecutar actividades, fuera de  la jornada de trabajo o utilizar personal, que no involucre material o información reservada o confidencial del organismo para fines ajenos a los Institucionales. </response>
+					<response id="B"> Ejecutar actividades, ocupar tiempo de la jornada de trabajo o utilizar personal, material o información reservada o confidencial del organismo para fines ajenos a los Institucionales. </response>
+				</responses>
+			</interaction>
+			<interaction id="Interacción10373" type="choice" score="2" correct-response="A">
+				<name>Opción múltiple</name>
+				<title>Las prohibiciones están establecidas en el artículo 84º del Estatuto Administrativo.  Seleccione la alternativa A o B , según corresponda a una PROHIBICIÓN </title>
+				<responses>
+					<response id="A"> Realizar cualquier actividad política dentro de la Administración del Estado. </response>
+					<response id="B"> Realizar cualquier actividad política fuera de la Administración del Estado. </response>
+				</responses>
+			</interaction>
+			<interaction id="Interacción10381" type="choice" score="2" correct-response="B">
+				<name>Opción múltiple</name>
+				<title>Las prohibiciones están establecidas en el artículo 84º del Estatuto Administrativo.  Seleccione la alternativa A o B , según corresponda a una PROHIBICIÓN </title>
+				<responses>
+					<response id="A"> Incitar a proteger,  preservar, salvaguardar instalaciones públicas o privadas, o participar en hechos que las dañen. </response>
+					<response id="B"> Incitar a destruir, inutilizar o interrumpir instalaciones públicas o privadas, o participar en hechos que las dañen. </response>
+				</responses>
+			</interaction>
+		</interactions>
+	</objective>
+	<objective id="Prueba10484" max-score="6" passing-score="5" min-score="0">
+		<name>Prueba</name>
+		<interactions>
+			<interaction id="Interacción10530" type="choice" score="2" correct-response="D">
+				<name>Opción múltiple</name>
+				<title>El cofinanciamiento como aporte voluntario a Bienestar Social es de: </title>
+				<responses>
+					<response id="A"> 10% </response>
+					<response id="B"> 5% </response>
+					<response id="C"> 2% </response>
+					<response id="D"> 1% </response>
+				</responses>
+			</interaction>
+			<interaction id="Interacción10542" type="choice" score="2" correct-response="B">
+				<name>Opción múltiple</name>
+				<title>SIGERH es: </title>
+				<responses>
+					<response id="A"> Sistema de Gestión de Reclutamiento </response>
+					<response id="B"> Sistema de Gestión de Recursos Humanos </response>
+					<response id="C"> Sistema General de Reclutamiento </response>
+					<response id="D"> Sistema General de Recursos Humanos </response>
+				</responses>
+			</interaction>
+			<interaction id="Interacción10583" type="true-false" score="2" correct-response="true">
+				<name>Verdadero/Falso</name>
+				<title>Los funcionarios de la DGAC pueden acceder a sus liquidaciones de sueldo mediante internet, en el SIGERH </title>
+				<responses>
+					<response id="true"> Verdadero </response>
+					<response id="false"> Falso </response>
+				</responses>
+			</interaction>
+		</interactions>
+	</objective>
+</tracking-metadata>

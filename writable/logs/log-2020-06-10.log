@@ -1,0 +1,154 @@
+CRITICAL - 2020-06-10 00:18:45 --> Undefined variable: headers
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Views/respuestas_servidor/exito.php(2): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/Applications/X...', 2, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/View/View.php(246): include('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('respuestas_serv...', Array, true)
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Usuario.php(86): view('respuestas_serv...', Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Usuario->eliminar_usuario()
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario))
+#6 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-10 01:39:40 --> Too few arguments to function App\Controllers\Usuario::editar(), 0 passed in /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php on line 914 and exactly 1 expected
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Usuario->editar()
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario))
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-10 01:40:07 --> Too few arguments to function App\Controllers\Usuario::editar(), 0 passed in /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php on line 914 and exactly 1 expected
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Usuario->editar()
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario))
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-10 01:41:11 --> Too few arguments to function App\Controllers\Usuario::editar(), 0 passed in /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php on line 914 and exactly 1 expected
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Usuario->editar()
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario))
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-10 01:41:16 --> Undefined index: oid
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Models/UsuarioModel.php(77): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/Applications/X...', 77, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Usuario.php(182): App\Models\UsuarioModel->editar_usuario_model(Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Usuario->editar('1987')
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario))
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-06-10 02:05:19 --> Undefined index: nombres
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Usuario.php(180): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/Applications/X...', 180, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Usuario->editar('2487')
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario))
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-10 02:05:31 --> Trying to get property 'nombres' of non-object
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Usuario.php(180): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', '/Applications/X...', 180, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Usuario->editar('2487')
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario))
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-10 02:14:26 --> Undefined variable: data
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Models/UsuarioModel.php(79): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/Applications/X...', 79, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Usuario.php(182): App\Models\UsuarioModel->editar_usuario_model(Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Usuario->editar('2487')
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario))
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-06-10 02:17:10 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::affectedRows()
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Usuario.php(182): App\Models\UsuarioModel->editar_usuario_model(Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Usuario->editar('2487')
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario))
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-10 02:20:14 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::updateBatch()
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Usuario.php(182): App\Models\UsuarioModel->editar_usuario_model(Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Usuario->editar('2487')
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario))
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-10 02:20:38 --> You must specify an index to match on for batch updates.
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Models/UsuarioModel.php(80): CodeIgniter\Database\BaseBuilder->updateBatch()
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Usuario.php(182): App\Models\UsuarioModel->editar_usuario_model(Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Usuario->editar('2487')
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario))
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-06-10 02:21:27 --> You must use the "set" method to update an entry.
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/BaseBuilder.php(2378): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Models/UsuarioModel.php(80): CodeIgniter\Database\BaseBuilder->getCompiledUpdate()
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Usuario.php(182): App\Models\UsuarioModel->editar_usuario_model(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Usuario->editar('2487')
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario))
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-10 13:24:37 --> Undefined property: stdClass::$descripcion
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Views/comunidad/misComunidades.php(73): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', '/Applications/X...', 73, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/View/View.php(246): include('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('comunidad/misCo...', Array, true)
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Comunidad.php(59): view('comunidad/misCo...', Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Comunidad->index()
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comunidad))
+#6 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-10 13:25:07 --> Undefined property: stdClass::$descripcion
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Views/comunidad/misComunidades.php(73): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', '/Applications/X...', 73, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/View/View.php(246): include('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('comunidad/misCo...', Array, true)
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Comunidad.php(59): view('comunidad/misCo...', Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Comunidad->index()
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comunidad))
+#6 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-10 13:25:30 --> Undefined property: stdClass::$nombre
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Views/comunidad/misComunidades.php(64): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', '/Applications/X...', 64, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/View/View.php(246): include('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('comunidad/misCo...', Array, true)
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Comunidad.php(59): view('comunidad/misCo...', Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Comunidad->index()
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comunidad))
+#6 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-10 13:25:47 --> Unknown column '* grupo.nombre' in 'field list'
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/MySQLi/Connection.php(331): mysqli->query('SELECT `* grupo...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `* grupo...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `* grupo...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/BaseBuilder.php(1845): CodeIgniter\Database\BaseConnection->query('SELECT `* grupo...', Array, false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Models/ComunidadModel.php(43): CodeIgniter\Database\BaseBuilder->get()
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Comunidad.php(31): App\Models\ComunidadModel->data_function('asdasd')
+#6 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Comunidad->index()
+#7 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comunidad))
+#8 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-06-10 13:42:36 --> Allowed memory size of 536870912 bytes exhausted (tried to allocate 71925760 bytes)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-06-10 13:43:42 --> Allowed memory size of 536870912 bytes exhausted (tried to allocate 139349552 bytes)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-06-10 13:44:16 --> Allowed memory size of 536870912 bytes exhausted (tried to allocate 139349552 bytes)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-06-10 13:44:20 --> Allowed memory size of 536870912 bytes exhausted (tried to allocate 139349552 bytes)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-06-10 14:06:35 --> Allowed memory size of 536870912 bytes exhausted (tried to allocate 139349552 bytes)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-06-10 16:21:32 --> Undefined variable: uid_oid
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Models/ComunidadModel.php(54): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/Applications/X...', 54, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Comunidad.php(31): App\Models\ComunidadModel->data_function('asdasd')
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Comunidad->index()
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comunidad))
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}

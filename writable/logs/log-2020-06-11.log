@@ -1,0 +1,140 @@
+CRITICAL - 2020-06-11 09:22:12 --> Undefined variable: nombre_categoria
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Views/comunidad/misComunidades.php(71): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/Applications/X...', 71, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/View/View.php(246): include('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('comunidad/misCo...', Array, true)
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Comunidad.php(59): view('comunidad/misCo...', Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Comunidad->index()
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comunidad))
+#6 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-11 10:25:26 --> syntax error, unexpected '<'
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('comunidad/misCo...', Array, true)
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Comunidad.php(59): view('comunidad/misCo...', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Comunidad->index()
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comunidad))
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-06-11 10:33:13 --> syntax error, unexpected '<'
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('comunidad/misCo...', Array, true)
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Comunidad.php(59): view('comunidad/misCo...', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Comunidad->index()
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comunidad))
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-06-11 11:39:50 --> Class 'App\Controllers\UsuarioModel' not found
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Comunidad->crear_comunidad()
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comunidad))
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-11 11:39:56 --> Class 'App\Controllers\UsuarioModel' not found
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Comunidad->crear_comunidad()
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comunidad))
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-11 13:00:05 --> Call to undefined method App\Models\UsuarioModel::getCarreras
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Comunidad.php(70): CodeIgniter\Model->__call('getCarreras', Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Comunidad->crear_comunidad()
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comunidad))
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-11 13:09:23 --> Call to undefined function htmlEscape()
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/View/View.php(246): include()
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('comunidad/crear...', Array, true)
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Comunidad.php(74): view('comunidad/crear...', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Comunidad->crear_comunidad()
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comunidad))
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-11 13:44:13 --> Cannot declare class App\Models\CarreraModel, because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-06-11 18:02:18 --> Call to undefined function _getPhpTranslate()
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/View/View.php(246): include()
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('comunidad/crear...', Array, true)
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Comunidad.php(82): view('comunidad/crear...', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Comunidad->crear_comunidad()
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comunidad))
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-11 21:02:02 --> Call to undefined method App\Models\TemaModel::getTema
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Comunidad.php(83): CodeIgniter\Model->__call('getTema', Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Comunidad->crear_comunidad()
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comunidad))
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-11 21:33:20 --> Call to undefined method App\Models\ComunidadModel::crear_usuario_model
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Comunidad.php(64): CodeIgniter\Model->__call('crear_usuario_m...', Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Comunidad->crear_comunidad()
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comunidad))
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-11 21:33:33 --> Unknown column 'finicio' in 'field list'
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/MySQLi/Connection.php(331): mysqli->query('INSERT INTO `gr...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `gr...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `gr...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/BaseBuilder.php(2234): CodeIgniter\Database\BaseConnection->query('INSERT INTO `gr...', Array, false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Models/ComunidadModel.php(60): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Comunidad.php(64): App\Models\ComunidadModel->crear_comunidad(Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Comunidad->crear_comunidad()
+#7 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comunidad))
+#8 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-06-11 21:35:24 --> Unknown column 'finicio' in 'field list'
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/MySQLi/Connection.php(331): mysqli->query('INSERT INTO `gr...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `gr...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `gr...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/BaseBuilder.php(2234): CodeIgniter\Database\BaseConnection->query('INSERT INTO `gr...', Array, false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Models/ComunidadModel.php(60): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Comunidad.php(64): App\Models\ComunidadModel->crear_comunidad(Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Comunidad->crear_comunidad()
+#7 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comunidad))
+#8 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-06-11 21:35:37 --> Unknown column 'msn' in 'field list'
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/MySQLi/Connection.php(331): mysqli->query('INSERT INTO `gr...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `gr...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `gr...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/BaseBuilder.php(2234): CodeIgniter\Database\BaseConnection->query('INSERT INTO `gr...', Array, false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Models/ComunidadModel.php(60): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Comunidad.php(64): App\Models\ComunidadModel->crear_comunidad(Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Comunidad->crear_comunidad()
+#7 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comunidad))
+#8 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-06-11 21:36:01 --> Unknown column 'msn' in 'field list'
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/MySQLi/Connection.php(331): mysqli->query('INSERT INTO `gr...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `gr...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `gr...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/BaseBuilder.php(2234): CodeIgniter\Database\BaseConnection->query('INSERT INTO `gr...', Array, false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Models/ComunidadModel.php(60): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Comunidad.php(64): App\Models\ComunidadModel->crear_comunidad(Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Comunidad->crear_comunidad()
+#7 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comunidad))
+#8 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-06-11 21:36:05 --> Unknown column 'top5_peso_post' in 'field list'
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/MySQLi/Connection.php(331): mysqli->query('INSERT INTO `gr...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `gr...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `gr...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/BaseBuilder.php(2234): CodeIgniter\Database\BaseConnection->query('INSERT INTO `gr...', Array, false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Models/ComunidadModel.php(60): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Comunidad.php(64): App\Models\ComunidadModel->crear_comunidad(Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Comunidad->crear_comunidad()
+#7 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comunidad))
+#8 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}

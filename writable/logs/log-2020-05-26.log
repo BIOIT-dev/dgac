@@ -1,0 +1,600 @@
+CRITICAL - 2020-05-26 00:24:44 --> Call to undefined function App\Controllers\load_profile()
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Profile->index()
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-26 00:24:46 --> Call to undefined function App\Controllers\load_profile()
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Profile->index()
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-26 00:24:48 --> Call to undefined function App\Controllers\load_profile()
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Profile->index()
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-26 00:25:01 --> Use of undefined constant load_profile - assumed 'load_profile' (this will throw an Error in a future version of PHP)
+#0 /opt/lampp/htdocs/codeigniter-dgac/app/Controllers/Profile.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', '/opt/lampp/htdo...', 8, Array)
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Profile->index()
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#3 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-26 00:25:17 --> Call to undefined function App\Controllers\load_profile()
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Profile->index()
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-26 00:25:19 --> Call to undefined function App\Controllers\load_profile()
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Profile->index()
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-26 00:26:38 --> Call to undefined function App\Controllers\load_profile()
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Profile->index()
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-26 00:26:39 --> Call to undefined function App\Controllers\load_profile()
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Profile->index()
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-26 00:29:48 --> Call to undefined function App\Controllers\load_profile()
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Profile->index()
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-26 00:29:49 --> Call to undefined function App\Controllers\load_profile()
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Profile->index()
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-26 00:29:50 --> Call to undefined function App\Controllers\load_profile()
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Profile->index()
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-26 00:30:39 --> Call to undefined function App\Controllers\load_profile()
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Profile->index()
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-26 00:30:40 --> Call to undefined function App\Controllers\load_profile()
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Profile->index()
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-26 00:30:40 --> Call to undefined function App\Controllers\load_profile()
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Profile->index()
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-26 00:30:41 --> Call to undefined function App\Controllers\load_profile()
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Profile->index()
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-26 00:30:42 --> Call to undefined function App\Controllers\load_profile()
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Profile->index()
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-26 00:38:25 --> syntax error, unexpected '?'
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('dgac/topbar', Array, true)
+#1 /opt/lampp/htdocs/codeigniter-dgac/app/Views/profile.php(16): view('dgac/topbar')
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/View/View.php(246): include('/opt/lampp/htdo...')
+#3 /opt/lampp/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('profile', Array, true)
+#4 /opt/lampp/htdocs/codeigniter-dgac/app/Controllers/Profile.php(15): view('profile', Array)
+#5 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Profile->index()
+#6 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#7 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-05-26 00:39:51 --> A non-numeric value encountered
+#0 /opt/lampp/htdocs/codeigniter-dgac/app/Views/dgac/topbar.php(316): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/opt/lampp/htdo...', 316, Array)
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/View/View.php(246): include('/opt/lampp/htdo...')
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('dgac/topbar', Array, true)
+#3 /opt/lampp/htdocs/codeigniter-dgac/app/Views/profile.php(16): view('dgac/topbar')
+#4 /opt/lampp/htdocs/codeigniter-dgac/system/View/View.php(246): include('/opt/lampp/htdo...')
+#5 /opt/lampp/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('profile', Array, true)
+#6 /opt/lampp/htdocs/codeigniter-dgac/app/Controllers/Profile.php(15): view('profile', Array)
+#7 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Profile->index()
+#8 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#9 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2020-05-26 00:39:54 --> A non-numeric value encountered
+#0 /opt/lampp/htdocs/codeigniter-dgac/app/Views/dgac/topbar.php(316): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/opt/lampp/htdo...', 316, Array)
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/View/View.php(246): include('/opt/lampp/htdo...')
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('dgac/topbar', Array, true)
+#3 /opt/lampp/htdocs/codeigniter-dgac/app/Views/profile.php(16): view('dgac/topbar')
+#4 /opt/lampp/htdocs/codeigniter-dgac/system/View/View.php(246): include('/opt/lampp/htdo...')
+#5 /opt/lampp/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('profile', Array, true)
+#6 /opt/lampp/htdocs/codeigniter-dgac/app/Controllers/Profile.php(15): view('profile', Array)
+#7 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Profile->index()
+#8 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#9 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2020-05-26 02:49:25 --> Call to undefined function App\Controllers\createFromFormat()
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Profile->index()
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-26 02:50:16 --> syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ')'
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('Profile')
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(789): CodeIgniter\Router\Router->handle('Profile')
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-26 02:50:23 --> Class 'App\Controllers\DateTime' not found
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Profile->index()
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-26 02:50:25 --> Class 'App\Controllers\DateTime' not found
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Profile->index()
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-26 02:50:57 --> syntax error, unexpected 'createFromFormat' (T_STRING), expecting variable (T_VARIABLE) or '$'
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('Profile')
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(789): CodeIgniter\Router\Router->handle('Profile')
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-26 02:51:03 --> Class 'App\Controllers\DateTime' not found
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Profile->index()
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-26 02:51:04 --> Class 'App\Controllers\DateTime' not found
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Profile->index()
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-26 02:52:05 --> syntax error, unexpected ','
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('Profile')
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(789): CodeIgniter\Router\Router->handle('Profile')
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-26 02:52:05 --> syntax error, unexpected ','
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('Profile')
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(789): CodeIgniter\Router\Router->handle('Profile')
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-26 02:53:06 --> syntax error, unexpected ';', expecting ')'
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('Profile')
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(789): CodeIgniter\Router\Router->handle('Profile')
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-26 02:53:14 --> Class 'App\Controllers\DateTime' not found
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Profile->index()
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-26 02:53:15 --> Class 'App\Controllers\DateTime' not found
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Profile->index()
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-26 02:53:37 --> Class 'App\Controllers\DateTime' not found
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Profile->index()
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-26 02:53:38 --> Class 'App\Controllers\DateTime' not found
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Profile->index()
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-26 02:53:57 --> Class 'App\Controllers\DateTime' not found
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Profile->index()
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-26 02:55:10 --> Object of class DateTime could not be converted to string
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/View/View.php(246): include()
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('profile', Array, true)
+#2 /opt/lampp/htdocs/codeigniter-dgac/app/Controllers/Profile.php(31): view('profile', Array)
+#3 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Profile->index()
+#4 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#5 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-26 02:55:20 --> date_format() expects exactly 2 parameters, 1 given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'date_format() e...', '/opt/lampp/htdo...', 16, Array)
+#1 /opt/lampp/htdocs/codeigniter-dgac/app/Controllers/Profile.php(16): date_format('01/06/1964')
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Profile->index()
+#3 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#4 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-05-26 02:55:21 --> date_format() expects exactly 2 parameters, 1 given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'date_format() e...', '/opt/lampp/htdo...', 16, Array)
+#1 /opt/lampp/htdocs/codeigniter-dgac/app/Controllers/Profile.php(16): date_format('01/06/1964')
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Profile->index()
+#3 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#4 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-05-26 02:55:33 --> date_time_set() expects at least 3 parameters, 1 given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'date_time_set()...', '/opt/lampp/htdo...', 16, Array)
+#1 /opt/lampp/htdocs/codeigniter-dgac/app/Controllers/Profile.php(16): date_time_set('01/06/1964')
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Profile->index()
+#3 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#4 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-05-26 02:55:34 --> date_time_set() expects at least 3 parameters, 1 given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'date_time_set()...', '/opt/lampp/htdo...', 16, Array)
+#1 /opt/lampp/htdocs/codeigniter-dgac/app/Controllers/Profile.php(16): date_time_set('01/06/1964')
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Profile->index()
+#3 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#4 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-05-26 11:57:53 --> Class 'App\Controllers\Time' not found
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Profile->index()
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-26 11:58:45 --> Class 'App\Controllers\Time' not found
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Profile->index()
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-26 11:58:46 --> Class 'App\Controllers\Time' not found
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Profile->index()
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-26 11:59:04 --> Class 'App\Controllers\Time' not found
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Profile->index()
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-26 11:59:05 --> Class 'App\Controllers\Time' not found
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Profile->index()
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-26 11:59:25 --> Class 'App\Controllers\Time' not found
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Profile->index()
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-26 11:59:26 --> Class 'App\Controllers\Time' not found
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Profile->index()
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-26 11:59:42 --> Class 'App\Controllers\Time' not found
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Profile->index()
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-26 12:45:31 --> Invalid file: misComunidades.php
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('misComunidades....')
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('misComunidades', Array, true)
+#2 /opt/lampp/htdocs/codeigniter-dgac/app/Controllers/Comunidad.php(14): view('misComunidades', Array)
+#3 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Comunidad->index()
+#4 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comunidad))
+#5 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-26 12:45:57 --> Invalid file: misComunidades.php
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('misComunidades....')
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('misComunidades', Array, true)
+#2 /opt/lampp/htdocs/codeigniter-dgac/app/Controllers/Comunidad.php(14): view('misComunidades', Array)
+#3 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Comunidad->index()
+#4 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comunidad))
+#5 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-26 12:45:58 --> Invalid file: misComunidades.php
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('misComunidades....')
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('misComunidades', Array, true)
+#2 /opt/lampp/htdocs/codeigniter-dgac/app/Controllers/Comunidad.php(14): view('misComunidades', Array)
+#3 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Comunidad->index()
+#4 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comunidad))
+#5 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-26 12:47:12 --> Invalid file: misComunidades.php
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('misComunidades....')
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('misComunidades', Array, true)
+#2 /opt/lampp/htdocs/codeigniter-dgac/app/Controllers/Comunidad.php(14): view('misComunidades', Array)
+#3 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Comunidad->index()
+#4 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comunidad))
+#5 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-26 17:41:26 --> syntax error, unexpected end of file
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('comunidad/misCo...', Array, true)
+#1 /opt/lampp/htdocs/codeigniter-dgac/app/Controllers/Comunidad.php(29): view('comunidad/misCo...', Array)
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Comunidad->index()
+#3 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comunidad))
+#4 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-05-26 17:44:12 --> syntax error, unexpected end of file
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('comunidad/misCo...', Array, true)
+#1 /opt/lampp/htdocs/codeigniter-dgac/app/Controllers/Comunidad.php(29): view('comunidad/misCo...', Array)
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Comunidad->index()
+#3 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comunidad))
+#4 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-05-26 17:44:14 --> syntax error, unexpected end of file
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('comunidad/misCo...', Array, true)
+#1 /opt/lampp/htdocs/codeigniter-dgac/app/Controllers/Comunidad.php(29): view('comunidad/misCo...', Array)
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Comunidad->index()
+#3 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comunidad))
+#4 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-05-26 17:44:39 --> syntax error, unexpected end of file
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('comunidad/misCo...', Array, true)
+#1 /opt/lampp/htdocs/codeigniter-dgac/app/Controllers/Comunidad.php(29): view('comunidad/misCo...', Array)
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Comunidad->index()
+#3 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comunidad))
+#4 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-05-26 17:44:41 --> syntax error, unexpected end of file
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('comunidad/misCo...', Array, true)
+#1 /opt/lampp/htdocs/codeigniter-dgac/app/Controllers/Comunidad.php(29): view('comunidad/misCo...', Array)
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Comunidad->index()
+#3 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comunidad))
+#4 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-05-26 17:44:51 --> syntax error, unexpected end of file
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('comunidad/misCo...', Array, true)
+#1 /opt/lampp/htdocs/codeigniter-dgac/app/Controllers/Comunidad.php(29): view('comunidad/misCo...', Array)
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Comunidad->index()
+#3 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comunidad))
+#4 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-05-26 17:44:53 --> syntax error, unexpected end of file
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('comunidad/misCo...', Array, true)
+#1 /opt/lampp/htdocs/codeigniter-dgac/app/Controllers/Comunidad.php(29): view('comunidad/misCo...', Array)
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Comunidad->index()
+#3 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comunidad))
+#4 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-05-26 17:45:38 --> syntax error, unexpected end of file
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('comunidad/misCo...', Array, true)
+#1 /opt/lampp/htdocs/codeigniter-dgac/app/Controllers/Comunidad.php(29): view('comunidad/misCo...', Array)
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Comunidad->index()
+#3 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comunidad))
+#4 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-05-26 17:45:50 --> syntax error, unexpected end of file
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('comunidad/misCo...', Array, true)
+#1 /opt/lampp/htdocs/codeigniter-dgac/app/Controllers/Comunidad.php(29): view('comunidad/misCo...', Array)
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Comunidad->index()
+#3 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comunidad))
+#4 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-05-26 17:47:54 --> syntax error, unexpected end of file
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('comunidad/misCo...', Array, true)
+#1 /opt/lampp/htdocs/codeigniter-dgac/app/Controllers/Comunidad.php(29): view('comunidad/misCo...', Array)
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Comunidad->index()
+#3 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comunidad))
+#4 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-05-26 17:47:55 --> syntax error, unexpected end of file
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('comunidad/misCo...', Array, true)
+#1 /opt/lampp/htdocs/codeigniter-dgac/app/Controllers/Comunidad.php(29): view('comunidad/misCo...', Array)
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Comunidad->index()
+#3 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comunidad))
+#4 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-05-26 17:47:56 --> syntax error, unexpected end of file
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('comunidad/misCo...', Array, true)
+#1 /opt/lampp/htdocs/codeigniter-dgac/app/Controllers/Comunidad.php(29): view('comunidad/misCo...', Array)
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Comunidad->index()
+#3 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comunidad))
+#4 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-05-26 17:49:53 --> syntax error, unexpected end of file
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('comunidad/misCo...', Array, true)
+#1 /opt/lampp/htdocs/codeigniter-dgac/app/Controllers/Comunidad.php(29): view('comunidad/misCo...', Array)
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Comunidad->index()
+#3 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comunidad))
+#4 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-05-26 17:49:55 --> syntax error, unexpected end of file
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('comunidad/misCo...', Array, true)
+#1 /opt/lampp/htdocs/codeigniter-dgac/app/Controllers/Comunidad.php(29): view('comunidad/misCo...', Array)
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Comunidad->index()
+#3 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comunidad))
+#4 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-05-26 17:49:56 --> syntax error, unexpected end of file
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('comunidad/misCo...', Array, true)
+#1 /opt/lampp/htdocs/codeigniter-dgac/app/Controllers/Comunidad.php(29): view('comunidad/misCo...', Array)
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Comunidad->index()
+#3 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comunidad))
+#4 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-05-26 17:50:37 --> syntax error, unexpected end of file
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('comunidad/misCo...', Array, true)
+#1 /opt/lampp/htdocs/codeigniter-dgac/app/Controllers/Comunidad.php(29): view('comunidad/misCo...', Array)
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Comunidad->index()
+#3 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comunidad))
+#4 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-05-26 17:51:19 --> Undefined index: con_realizadas
+#0 /opt/lampp/htdocs/codeigniter-dgac/app/Views/comunidad/misComunidades.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/opt/lampp/htdo...', 83, Array)
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/View/View.php(246): include('/opt/lampp/htdo...')
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('comunidad/misCo...', Array, true)
+#3 /opt/lampp/htdocs/codeigniter-dgac/app/Controllers/Comunidad.php(29): view('comunidad/misCo...', Array)
+#4 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Comunidad->index()
+#5 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comunidad))
+#6 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-26 17:53:29 --> syntax error, unexpected end of file
+#0 /opt/lampp/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('comunidad/misCo...', Array, true)
+#1 /opt/lampp/htdocs/codeigniter-dgac/app/Controllers/Comunidad.php(29): view('comunidad/misCo...', Array)
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Comunidad->index()
+#3 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comunidad))
+#4 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-05-26 17:54:00 --> Array to string conversion
+#0 /opt/lampp/htdocs/codeigniter-dgac/app/Views/comunidad/misComunidades.php(52): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', '/opt/lampp/htdo...', 52, Array)
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/View/View.php(246): include('/opt/lampp/htdo...')
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('comunidad/misCo...', Array, true)
+#3 /opt/lampp/htdocs/codeigniter-dgac/app/Controllers/Comunidad.php(29): view('comunidad/misCo...', Array)
+#4 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Comunidad->index()
+#5 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comunidad))
+#6 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-26 17:54:21 --> Array to string conversion
+#0 /opt/lampp/htdocs/codeigniter-dgac/app/Views/comunidad/misComunidades.php(52): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', '/opt/lampp/htdo...', 52, Array)
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/View/View.php(246): include('/opt/lampp/htdo...')
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('comunidad/misCo...', Array, true)
+#3 /opt/lampp/htdocs/codeigniter-dgac/app/Controllers/Comunidad.php(29): view('comunidad/misCo...', Array)
+#4 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Comunidad->index()
+#5 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comunidad))
+#6 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-26 17:54:33 --> Array to string conversion
+#0 /opt/lampp/htdocs/codeigniter-dgac/app/Views/comunidad/misComunidades.php(52): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', '/opt/lampp/htdo...', 52, Array)
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/View/View.php(246): include('/opt/lampp/htdo...')
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('comunidad/misCo...', Array, true)
+#3 /opt/lampp/htdocs/codeigniter-dgac/app/Controllers/Comunidad.php(29): view('comunidad/misCo...', Array)
+#4 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Comunidad->index()
+#5 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comunidad))
+#6 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-26 17:56:41 --> Array to string conversion
+#0 /opt/lampp/htdocs/codeigniter-dgac/app/Views/comunidad/misComunidades.php(52): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', '/opt/lampp/htdo...', 52, Array)
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/View/View.php(246): include('/opt/lampp/htdo...')
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('comunidad/misCo...', Array, true)
+#3 /opt/lampp/htdocs/codeigniter-dgac/app/Controllers/Comunidad.php(29): view('comunidad/misCo...', Array)
+#4 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Comunidad->index()
+#5 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comunidad))
+#6 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-26 17:57:36 --> Array to string conversion
+#0 /opt/lampp/htdocs/codeigniter-dgac/app/Views/comunidad/misComunidades.php(52): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', '/opt/lampp/htdo...', 52, Array)
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/View/View.php(246): include('/opt/lampp/htdo...')
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('comunidad/misCo...', Array, true)
+#3 /opt/lampp/htdocs/codeigniter-dgac/app/Controllers/Comunidad.php(29): view('comunidad/misCo...', Array)
+#4 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Comunidad->index()
+#5 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comunidad))
+#6 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-26 17:57:56 --> Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP)
+#0 /opt/lampp/htdocs/codeigniter-dgac/app/Views/comunidad/misComunidades.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', '/opt/lampp/htdo...', 52, Array)
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/View/View.php(246): include('/opt/lampp/htdo...')
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('comunidad/misCo...', Array, true)
+#3 /opt/lampp/htdocs/codeigniter-dgac/app/Controllers/Comunidad.php(29): view('comunidad/misCo...', Array)
+#4 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Comunidad->index()
+#5 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comunidad))
+#6 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-26 17:58:41 --> Array to string conversion
+#0 /opt/lampp/htdocs/codeigniter-dgac/app/Views/comunidad/misComunidades.php(52): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', '/opt/lampp/htdo...', 52, Array)
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/View/View.php(246): include('/opt/lampp/htdo...')
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('comunidad/misCo...', Array, true)
+#3 /opt/lampp/htdocs/codeigniter-dgac/app/Controllers/Comunidad.php(29): view('comunidad/misCo...', Array)
+#4 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Comunidad->index()
+#5 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comunidad))
+#6 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-26 17:59:37 --> Array to string conversion
+#0 /opt/lampp/htdocs/codeigniter-dgac/app/Views/comunidad/misComunidades.php(52): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', '/opt/lampp/htdo...', 52, Array)
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/View/View.php(246): include('/opt/lampp/htdo...')
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('comunidad/misCo...', Array, true)
+#3 /opt/lampp/htdocs/codeigniter-dgac/app/Controllers/Comunidad.php(29): view('comunidad/misCo...', Array)
+#4 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Comunidad->index()
+#5 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comunidad))
+#6 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-26 18:02:22 --> Array to string conversion
+#0 /opt/lampp/htdocs/codeigniter-dgac/app/Views/comunidad/misComunidades.php(52): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', '/opt/lampp/htdo...', 52, Array)
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/View/View.php(246): include('/opt/lampp/htdo...')
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('comunidad/misCo...', Array, true)
+#3 /opt/lampp/htdocs/codeigniter-dgac/app/Controllers/Comunidad.php(29): view('comunidad/misCo...', Array)
+#4 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Comunidad->index()
+#5 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comunidad))
+#6 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-26 18:33:01 --> Undefined index: direccion
+#0 /opt/lampp/htdocs/codeigniter-dgac/app/Views/profile.php(65): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/opt/lampp/htdo...', 65, Array)
+#1 /opt/lampp/htdocs/codeigniter-dgac/system/View/View.php(246): include('/opt/lampp/htdo...')
+#2 /opt/lampp/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('profile', Array, true)
+#3 /opt/lampp/htdocs/codeigniter-dgac/app/Controllers/Profile.php(34): view('profile', Array)
+#4 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Profile->index()
+#5 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#6 /opt/lampp/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /opt/lampp/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}

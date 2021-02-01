@@ -1,0 +1,10 @@
+CRITICAL - 2020-06-05 20:33:28 --> Undefined variable: mensaje_servidor
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Views/usuario/listado-usuario.php(129): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/Applications/X...', 129, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/View/View.php(246): include('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('usuario/listado...', Array, true)
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Usuario.php(114): view('usuario/listado...', Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Usuario->buscar_usuario()
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario))
+#6 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}

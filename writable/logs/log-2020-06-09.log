@@ -1,0 +1,110 @@
+CRITICAL - 2020-06-09 19:01:52 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('usuario/listado...', Array, true)
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Usuario.php(114): view('usuario/listado...', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Usuario->buscar_usuario()
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario))
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-06-09 19:21:18 --> syntax error, unexpected ''public/Usuario/); ?>' (T_ENCAPSED_AND_WHITESPACE)
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('usuario/listado...', Array, true)
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Usuario.php(115): view('usuario/listado...', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Usuario->buscar_usuario()
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario))
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-06-09 19:21:30 --> syntax error, unexpected ''public/Usuario/); ?>' (T_ENCAPSED_AND_WHITESPACE)
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('usuario/listado...', Array, true)
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Usuario.php(115): view('usuario/listado...', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Usuario->buscar_usuario()
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario))
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-06-09 19:36:01 --> Argument 2 passed to view() must be of the type array, string given, called in /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Usuario.php on line 77
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Usuario.php(77): view('usuario/editar-...', '7624919,9251372')
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Usuario->eliminar_usuario('7624919,9251372')
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario))
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-09 19:37:40 --> Invalid argument supplied for foreach()
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Views/usuario/editar-usuario.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/Applications/X...', 1, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/View/View.php(246): include('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('usuario/editar-...', Array, true)
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Usuario.php(78): view('usuario/editar-...', Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Usuario->eliminar_usuario('7624919,9251372')
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario))
+#6 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-09 19:40:55 --> Invalid argument supplied for foreach()
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Views/usuario/editar-usuario.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/Applications/X...', 1, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/View/View.php(246): include('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('usuario/editar-...', Array, true)
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Usuario.php(78): view('usuario/editar-...', Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Usuario->eliminar_usuario('7624919,9251372')
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario))
+#6 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-09 19:43:39 --> Too few arguments to function App\Controllers\Usuario::eliminar_usuario(), 0 passed in /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php on line 914 and exactly 1 expected
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Usuario->eliminar_usuario()
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario))
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-09 19:50:05 --> syntax error, unexpected ';', expecting ')'
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('Usuario/buscar_...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(789): CodeIgniter\Router\Router->handle('Usuario/buscar_...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-09 19:50:14 --> syntax error, unexpected ';', expecting ')'
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('Usuario/buscar_...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(789): CodeIgniter\Router\Router->handle('Usuario/buscar_...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-09 20:03:35 --> {0, string} route cannot be found while reverse-routing.
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/HTTP/RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Common.php(813): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Usuario.php(82): redirect('usuario/editar-...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Usuario->eliminar_usuario()
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario))
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-09 20:03:55 --> Invalid file: {0}
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('usuario/.php')
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('usuario/', Array, true)
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Usuario.php(82): view('usuario/')
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Usuario->eliminar_usuario()
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario))
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-09 20:13:10 --> Undefined offset: 0
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Usuario.php(79): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/Applications/X...', 79, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Usuario->eliminar_usuario()
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario))
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-09 20:14:14 --> Undefined offset: 0
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Usuario.php(78): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/Applications/X...', 78, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Usuario->eliminar_usuario()
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario))
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-09 20:14:47 --> Undefined offset: 0
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Usuario.php(78): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/Applications/X...', 78, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Usuario->eliminar_usuario()
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario))
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}

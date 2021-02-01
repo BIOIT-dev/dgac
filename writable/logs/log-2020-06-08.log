@@ -1,0 +1,77 @@
+CRITICAL - 2020-06-08 10:59:09 --> Undefined index: userid
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Models/UsuarioModel.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/Applications/X...', 46, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Usuario.php(107): App\Models\UsuarioModel->buscar_usuario_model(Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Usuario->buscar_usuario()
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario))
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-06-08 11:00:46 --> Undefined index: userid
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Models/UsuarioModel.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/Applications/X...', 46, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Usuario.php(107): App\Models\UsuarioModel->buscar_usuario_model(Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Usuario->buscar_usuario()
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario))
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-06-08 11:00:54 --> Undefined index: userid
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Models/UsuarioModel.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/Applications/X...', 46, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Usuario.php(107): App\Models\UsuarioModel->buscar_usuario_model(Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Usuario->buscar_usuario()
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario))
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-06-08 11:01:40 --> Call to undefined method CodeIgniter\HTTP\IncomingRequest::get()
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Usuario->buscar_usuario()
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario))
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-08 11:21:13 --> Undefined index: userid
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Models/UsuarioModel.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/Applications/X...', 46, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Usuario.php(107): App\Models\UsuarioModel->buscar_usuario_model(Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Usuario->buscar_usuario()
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario))
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-06-08 11:21:40 --> Undefined index: userid
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Models/UsuarioModel.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/Applications/X...', 46, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Usuario.php(107): App\Models\UsuarioModel->buscar_usuario_model(Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Usuario->buscar_usuario()
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario))
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-06-08 12:11:22 --> Undefined variable: query
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Views/usuario/buscar-usuario.php(87): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/Applications/X...', 87, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/View/View.php(246): include('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('usuario/buscar-...', Array, true)
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Usuario.php(87): view('usuario/buscar-...', Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Usuario->eliminar_usuario('1220')
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario))
+#6 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-08 12:13:31 --> Call to undefined function App\Controllers\buscar_usuario()
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Usuario->eliminar_usuario('2889')
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario))
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-08 12:16:09 --> syntax error, unexpected '$eliminarUsuario' (T_VARIABLE)
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('Usuario/buscar_...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(789): CodeIgniter\Router\Router->handle('Usuario/buscar_...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-08 22:38:50 --> syntax error, unexpected '}', expecting end of file
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('usuario/listado...', Array, true)
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Usuario.php(114): view('usuario/listado...', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Usuario->buscar_usuario()
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario))
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}

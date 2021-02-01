@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<breeze-manifest version="1.0" xmlns="http://breeze.macromedia.com/">
+	<document type="slide-presentation" icon="presentation" duration="1219.9666666666667" section-count="42"/>
+	<assets>
+		<asset type="document-view">
+			<entry href="viewer.swf" width="900" height="550"/>
+			
+<file href="data"/>
+<file href="breeze-manifest.xml"/>
+<file href="viewer.swf"/>
+<file href="as2-wrapper.swf"/>
+<file href="components.swf"/>
+<file href="browsersniff.js"/>
+<file href="SCORM_utilities.js"/>
+<file href="standard.js"/>
+<file href="Utilities.js"/>
+<file href="adlcp_rootv1p2.xsd"/>
+<file href="imscp_rootv1p1p2.xsd"/>
+<file href="imsmd_rootv1p2p1.xsd"/>
+<file href="SCORM.htm"/>
+<file href="scormdriver.js"/>
+<file href="ScormEnginePackageProperties.xsd"/>
+<file href="imsmanifest.xml"/>
+<file href="index.htm"/>
+
+		</asset>
+		<asset type="document-metadata" location="file">
+			<file href="data/srchdata.xml"/>
+		</asset>
+		<asset type="tracking-metadata" location="file">
+			<file href="metadata/trackdta.xml"/>
+		</asset>
+	</assets>
+</breeze-manifest>

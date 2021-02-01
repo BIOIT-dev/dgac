@@ -1,0 +1,326 @@
+CRITICAL - 2020-06-22 00:10:40 --> Invalid file: {0}
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('carrera/crear-c...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('carrera/crear-c...', Array, true)
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Carrera.php(45): view('carrera/crear-c...', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Carrera->crear_carrera()
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Carrera))
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-22 00:21:03 --> Invalid file: {0}
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('carrera/crear-c...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('carrera/crear-c...', Array, true)
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Carrera.php(45): view('carrera/crear-c...', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Carrera->crear_carrera()
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Carrera))
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-22 00:27:16 --> Invalid file: {0}
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('carrera/crear-c...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('carrera/crear-c...', Array, true)
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Carrera.php(45): view('carrera/crear-c...', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Carrera->crear_carrera()
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Carrera))
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-22 00:30:58 --> Invalid file: {0}
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('carrera/crear-c...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('carrera/crear-c...', Array, true)
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Carrera.php(45): view('carrera/crear-c...', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Carrera->crear_carrera()
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Carrera))
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-22 00:36:38 --> Call to undefined method App\Models\CarreraModel::buscar_carrera
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Carrera.php(74): CodeIgniter\Model->__call('buscar_carrera', Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Carrera->buscar_carrera()
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Carrera))
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-22 00:42:43 --> Call to undefined method App\Models\CarreraModel::buscar_carrera
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Carrera.php(74): CodeIgniter\Model->__call('buscar_carrera', Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Carrera->buscar_carrera()
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Carrera))
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-22 00:42:57 --> Undefined index: userid
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Models/CarreraModel.php(39): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/Applications/X...', 39, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Carrera.php(74): App\Models\CarreraModel->buscar_carrera(Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Carrera->buscar_carrera()
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Carrera))
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-06-22 00:43:22 --> Undefined property: stdClass::$oid_usuario
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Views/carrera/listado-carrera.php(215): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', '/Applications/X...', 215, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/View/View.php(246): include('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('carrera/listado...', Array, true)
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Carrera.php(76): view('carrera/listado...', Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Carrera->buscar_carrera()
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Carrera))
+#6 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-22 00:59:54 --> Call to undefined method App\Models\CarreraModel::crear_carrera
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Carrera.php(35): CodeIgniter\Model->__call('crear_carrera', Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Carrera->crear_carrera()
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Carrera))
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-22 01:07:53 --> Call to undefined method App\Controllers\Carrera::actualUser()
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(886): App\Controllers\Carrera->__construct()
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(395): CodeIgniter\CodeIgniter->createController()
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-22 01:08:29 --> Undefined variable: profile_foto_edit
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Views/usuario/editar-usuario.php(52): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/Applications/X...', 52, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/View/View.php(246): include('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('usuario/editar-...', Array, true)
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Carrera.php(102): view('usuario/editar-...', Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Carrera->editar('16')
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Carrera))
+#6 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-22 01:09:14 --> Undefined variable: profile_data_edit
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Views/carrera/editar-carrera.php(58): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/Applications/X...', 58, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/View/View.php(246): include('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('carrera/editar-...', Array, true)
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Carrera.php(102): view('carrera/editar-...', Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Carrera->editar('16')
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Carrera))
+#6 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-22 01:10:54 --> Table 'basedb.carrera' doesn't exist
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/MySQLi/Connection.php(331): mysqli->query('SELECT *\nFROM `...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/BaseBuilder.php(1845): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Model.php(381): CodeIgniter\Database\BaseBuilder->get()
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Carrera.php(89): CodeIgniter\Model->find('16')
+#6 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Carrera->editar('16')
+#7 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Carrera))
+#8 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-06-22 11:51:51 --> Undefined property: stdClass::$nombre
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Views/sede/listado-sede.php(213): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', '/Applications/X...', 213, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/View/View.php(246): include('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('sede/listado-se...', Array, true)
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Sede.php(78): view('sede/listado-se...', Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Sede->buscar_sede()
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sede))
+#6 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-22 12:09:13 --> Undefined property: stdClass::$nombre
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Views/sede/listado-sede.php(213): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', '/Applications/X...', 213, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/View/View.php(246): include('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('sede/listado-se...', Array, true)
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Sede.php(78): view('sede/listado-se...', Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Sede->buscar_sede()
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sede))
+#6 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-22 12:17:25 --> Undefined index: nombre
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Views/sede/editar-sede.php(68): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/Applications/X...', 68, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/View/View.php(246): include('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('sede/editar-sed...', Array, true)
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Sede.php(108): view('sede/editar-sed...', Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Sede->editar('2')
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sede))
+#6 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-22 12:17:46 --> Undefined index: nombre
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Views/sede/editar-sede.php(68): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/Applications/X...', 68, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/View/View.php(246): include('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('sede/editar-sed...', Array, true)
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Sede.php(108): view('sede/editar-sed...', Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Sede->editar('2')
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sede))
+#6 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-22 12:36:35 --> Unknown column 'sede_nombre' in 'field list'
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/MySQLi/Connection.php(331): mysqli->query('UPDATE `carrera...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `carrera...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `carrera...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/BaseBuilder.php(2441): CodeIgniter\Database\BaseConnection->query('UPDATE `carrera...', Array, false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Models/CarreraModel.php(73): CodeIgniter\Database\BaseBuilder->update(Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Carrera.php(97): App\Models\CarreraModel->editar_carrera(Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Carrera->editar('2')
+#7 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Carrera))
+#8 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-06-22 12:39:11 --> Unknown column 'sede_nombre' in 'field list'
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/MySQLi/Connection.php(331): mysqli->query('UPDATE `carrera...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `carrera...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `carrera...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/BaseBuilder.php(2441): CodeIgniter\Database\BaseConnection->query('UPDATE `carrera...', Array, false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Models/CarreraModel.php(73): CodeIgniter\Database\BaseBuilder->update(Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Carrera.php(97): App\Models\CarreraModel->editar_carrera(Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Carrera->editar('2')
+#7 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Carrera))
+#8 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-06-22 12:39:17 --> Unknown column 'sede_nombre' in 'field list'
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/MySQLi/Connection.php(331): mysqli->query('UPDATE `carrera...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `carrera...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `carrera...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/BaseBuilder.php(2441): CodeIgniter\Database\BaseConnection->query('UPDATE `carrera...', Array, false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Models/CarreraModel.php(73): CodeIgniter\Database\BaseBuilder->update(Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Carrera.php(97): App\Models\CarreraModel->editar_carrera(Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Carrera->editar('2')
+#7 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Carrera))
+#8 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-06-22 12:39:40 --> Unknown column 'sede_nombre' in 'field list'
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/MySQLi/Connection.php(331): mysqli->query('UPDATE `carrera...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `carrera...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `carrera...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/BaseBuilder.php(2441): CodeIgniter\Database\BaseConnection->query('UPDATE `carrera...', Array, false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Models/CarreraModel.php(73): CodeIgniter\Database\BaseBuilder->update(Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Carrera.php(97): App\Models\CarreraModel->editar_carrera(Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Carrera->editar('2')
+#7 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Carrera))
+#8 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-06-22 12:44:27 --> Undefined index: inactivo
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Sede.php(98): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/Applications/X...', 98, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Sede->editar('2')
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sede))
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-22 12:47:20 --> Trying to get property 'inactivo' of non-object
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Sede.php(98): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', '/Applications/X...', 98, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Sede->editar('2')
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sede))
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-22 12:51:49 --> Undefined index: inactivo
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Sede.php(98): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/Applications/X...', 98, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Sede->editar('2')
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sede))
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-22 15:13:02 --> Invalid file: {0}
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('asignatura/inde...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('asignatura/inde...', Array, true)
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Asignatura.php(26): view('asignatura/inde...', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Asignatura->index_asignatura()
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asignatura))
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-22 15:44:50 --> Undefined variable: data_busqueda
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Asignatura.php(81): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/Applications/X...', 81, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Asignatura->buscar_asignatura()
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asignatura))
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-22 16:12:38 --> Unknown column 'carrera' in 'field list'
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/MySQLi/Connection.php(331): mysqli->query('INSERT INTO `as...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `as...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `as...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/BaseBuilder.php(2234): CodeIgniter\Database\BaseConnection->query('INSERT INTO `as...', Array, false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Models/AsignaturaModel.php(26): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Asignatura.php(39): App\Models\AsignaturaModel->crear_asignatura(Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Asignatura->crear_asignatura()
+#7 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asignatura))
+#8 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-06-22 16:13:34 --> Unknown column 'carrera' in 'field list'
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/MySQLi/Connection.php(331): mysqli->query('INSERT INTO `as...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `as...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `as...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/BaseBuilder.php(2234): CodeIgniter\Database\BaseConnection->query('INSERT INTO `as...', Array, false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Models/AsignaturaModel.php(26): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Asignatura.php(39): App\Models\AsignaturaModel->crear_asignatura(Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Asignatura->crear_asignatura()
+#7 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asignatura))
+#8 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-06-22 16:17:48 --> Trying to access array offset on value of type null
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Views/carrera/editar-carrera.php(58): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', '/Applications/X...', 58, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/View/View.php(246): include('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('carrera/editar-...', Array, true)
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Carrera.php(107): view('carrera/editar-...', Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Carrera->editar('170')
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Carrera))
+#6 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-22 16:18:05 --> Trying to access array offset on value of type null
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Views/carrera/editar-carrera.php(58): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', '/Applications/X...', 58, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/View/View.php(246): include('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('carrera/editar-...', Array, true)
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Carrera.php(107): view('carrera/editar-...', Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Carrera->editar('170')
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Carrera))
+#6 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-22 16:18:33 --> Undefined index: carrera
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Views/asignatura/editar-asignatura.php(70): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/Applications/X...', 70, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/View/View.php(246): include('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('asignatura/edit...', Array, true)
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Asignatura.php(120): view('asignatura/edit...', Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Asignatura->editar('170')
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asignatura))
+#6 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-22 16:19:58 --> Undefined index: nombre
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Views/asignatura/editar-asignatura.php(78): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/Applications/X...', 78, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/View/View.php(246): include('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Common.php(1087): CodeIgniter\View\View->render('asignatura/edit...', Array, true)
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Asignatura.php(120): view('asignatura/edit...', Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Asignatura->editar('170')
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asignatura))
+#6 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-22 16:32:07 --> Unknown column 'carrera' in 'field list'
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/MySQLi/Connection.php(331): mysqli->query('UPDATE `asignat...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `asignat...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `asignat...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/BaseBuilder.php(2441): CodeIgniter\Database\BaseConnection->query('UPDATE `asignat...', Array, false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Models/AsignaturaModel.php(75): CodeIgniter\Database\BaseBuilder->update(Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Asignatura.php(106): App\Models\AsignaturaModel->editar_asignatura(Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Asignatura->editar('170')
+#7 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asignatura))
+#8 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-06-22 16:53:20 --> Unknown column 'carrera' in 'field list'
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/MySQLi/Connection.php(331): mysqli->query('UPDATE `asignat...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `asignat...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `asignat...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/BaseBuilder.php(2441): CodeIgniter\Database\BaseConnection->query('UPDATE `asignat...', Array, false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Models/AsignaturaModel.php(75): CodeIgniter\Database\BaseBuilder->update(Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Asignatura.php(106): App\Models\AsignaturaModel->editar_asignatura(Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Asignatura->editar('170')
+#7 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asignatura))
+#8 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}

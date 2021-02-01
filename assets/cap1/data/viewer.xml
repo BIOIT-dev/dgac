@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presentation width="720" height="540" start="play" buildNum="10.0.0.196">
+	<presentationTitle>INDUCCION_INGRESO_DGAC</presentationTitle>
+	<speakers>
+		<speaker>
+			<name>Guido Martínez Salazar</name>
+			<speakerTitle>Encargado Educación a Distancia</speakerTitle>
+			<email>gmartinezs@dgac.cl</email>
+		</speaker>
+	</speakers>
+	<backgrounds>
+		<background url="Master80000105.swf"/>
+		<background url="Master80000000.swf"/>
+	</backgrounds>
+	<search url="srchdata.xml"/>
+	<slides>
+		<slide id="256" frameRate="30" totalFrames="249.9" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide1.swf"/>
+			<slideBackground index="0" frameToPlay="1" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>@INDUCCIÓN FUNCIONARIOS DGAC @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="1"/>
+			<slideSpeaker index="0"/>
+			<audios id="1" duration=" 8330">
+				<media url="a24x1x1.mp3" startMsecs="0" duration="8330" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="319" frameRate="30" totalFrames="1111.2" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide2.swf"/>
+			<slideBackground index="1" frameToPlay="1" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<clickAnimations>
+				<clickAnimation start="57" end="88"/>
+				<clickAnimation start="178" end="239"/>
+				<clickAnimation start="300" end="331"/>
+				<clickAnimation start="447" end="478"/>
+				<clickAnimation start="548" end="579"/>
+				<clickAnimation start="644" end="675"/>
+				<clickAnimation start="754" end="785"/>
+			</clickAnimations>
+			<slideTitle>@DERECHOS DE LOS FUNCIONARIOS @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="2"/>
+			<slideSpeaker index="0"/>
+			<audios id="2" duration=" 37040">
+				<media url="a24x2x1.mp3" startMsecs="0" duration="37040" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="320" frameRate="30" totalFrames="1086.8999999999998" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide3.swf"/>
+			<slideBackground index="1" frameToPlay="3" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<clickAnimations>
+				<clickAnimation start="3" end="32"/>
+				<clickAnimation start="198" end="229"/>
+				<clickAnimation start="729" end="760"/>
+				<clickAnimation start="944" end="975"/>
+			</clickAnimations>
+			<slideTitle>@DERECHOS DE LOS FUNCIONARIOS @</slideTitle>
+			<notes isHTML="true">3&lt;br&gt;&lt;b&gt;DERECHOS&amp;#x20;DE&amp;#x20;LOS&amp;#x20;FUNCIONARIOS&lt;br&gt;&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;Todo&amp;#x20;funcionario&amp;#x20;tiene&amp;#x20;los&amp;#x20;siguientes&amp;#x20;derechos:&lt;br&gt;&lt;br&gt;Ascender&amp;#x20;en&amp;#x20;el&amp;#x20;respectivo&amp;#x20;escalaf&amp;#x00f3;n.&lt;br&gt;Participar&amp;#x20;en&amp;#x20;los&amp;#x20;concursos&amp;#x20;de&amp;#x20;provisi&amp;#x00f3;n&amp;#x20;de&amp;#x20;cargos&lt;br&gt;Hacer&amp;#x20;uso&amp;#x20;de&amp;#x20;Feriados.&lt;br&gt;Hacer&amp;#x20;uso&amp;#x20;de&amp;#x20;Permisos.&lt;br&gt;Hacer&amp;#x20;uso&amp;#x20;de&amp;#x20;Licencias&amp;#x20;M&amp;#x00e9;dicas.&lt;br&gt;Recibir&amp;#x20;asistencia&amp;#x20;en&amp;#x20;caso&amp;#x20;de&amp;#x20;accidente&amp;#x20;en&amp;#x20;actos&amp;#x20;de&amp;#x20;servicios&amp;#x20;o&amp;#x20;de&amp;#x20;enfermedad&amp;#x20;contra&amp;#x00ed;da&amp;#x20;a&amp;#x20;consecuencia&amp;#x20;del&amp;#x20;desempe&amp;#x00f1;o&amp;#x20;de&amp;#x20;sus&amp;#x20;funciones.&lt;br&gt;Participar&amp;#x20;en&amp;#x20;las&amp;#x20;acciones&amp;#x20;de&amp;#x20;capacitaci&amp;#x00f3;n&amp;#x20;necesarias.&lt;br&gt;A&amp;#x20;ser&amp;#x20;defendidos&amp;#x20;civil&amp;#x20;y&amp;#x20;criminalmente&amp;#x20;de&amp;#x20;las&amp;#x20;personas&amp;#x20;que&amp;#x20;atenten&amp;#x20;contra&amp;#x20;su&amp;#x20;vida&amp;#x20;o&amp;#x20;su&amp;#x20;integridad&amp;#x20;corporal,&amp;#x20;con&amp;#x20;motivo&amp;#x20;del&amp;#x20;desempe&amp;#x00f1;o&amp;#x20;de&amp;#x20;sus&amp;#x20;funciones,&amp;#x20;o&amp;#x20;que,&amp;#x20;por&amp;#x20;dicho&amp;#x20;motivo,&amp;#x20;lo&amp;#x20;injurien&amp;#x20;o&amp;#x20;calumnien&amp;#x20;en&amp;#x20;cualquier&amp;#x20;forma.&lt;br&gt;Destinaciones,&amp;#x20;reasignaciones,&amp;#x20;comisiones&amp;#x20;de&amp;#x20;servicio&amp;#x20;o&amp;#x20;cometidos.&lt;br&gt;Remuneraciones&amp;#x20;y&amp;#x20;asignaciones.&lt;br&gt;&lt;br&gt;&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="3"/>
+			<slideSpeaker index="0"/>
+			<audios id="3" duration=" 36230">
+				<media url="a24x3x1.mp3" startMsecs="0" duration="36230" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="321" frameRate="30" totalFrames="1854.8999999999998" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide4.swf"/>
+			<slideBackground index="1" frameToPlay="5" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<clickAnimations>
+				<clickAnimation start="157" end="173"/>
+				<clickAnimation start="246" end="262"/>
+				<clickAnimation start="497" end="513"/>
+				<clickAnimation start="727" end="743"/>
+			</clickAnimations>
+			<slideTitle>@Slide 4@</slideTitle>
+			<notes isHTML="true">4&lt;br&gt;&lt;b&gt;Feriados&amp;#x20;Legales.&lt;br&gt;&lt;/b&gt;&lt;br&gt;Se&amp;#x20;entiende&amp;#x20;por&amp;#x20;feriado&amp;#x20;el&amp;#x20;descanso&amp;#x20;a&amp;#x20;que&amp;#x20;tiene&amp;#x20;derecho&amp;#x20;el&amp;#x20;funcionario,&amp;#x20;con&amp;#x20;goce&amp;#x20;de&amp;#x20;todas&amp;#x20;las&amp;#x20;remuneraciones&amp;#x20;durante&amp;#x20;el&amp;#x20;tiempo&amp;#x20;y&amp;#x20;bajo&amp;#x20;las&amp;#x20;condiciones&amp;#x20;que&amp;#x20;m&amp;#x00e1;s&amp;#x20;adelante&amp;#x20;se&amp;#x20;establecen.&lt;br&gt;&lt;br&gt;El&amp;#x20;feriado&amp;#x20;corresponder&amp;#x00e1;&amp;#x20;a&amp;#x20;cada&amp;#x20;a&amp;#x00f1;o&amp;#x20;calendario&amp;#x20;y&amp;#x20;ser&amp;#x00e1;&amp;#x20;de:&lt;br&gt;&lt;br&gt;Quince&amp;#x20;d&amp;#x00ed;as&amp;#x20;h&amp;#x00e1;biles&amp;#x20;para&amp;#x20;los&amp;#x20;funcionarios&amp;#x20;con&amp;#x20;menos&amp;#x20;de&amp;#x20;quince&amp;#x20;a&amp;#x00f1;os&amp;#x20;de&amp;#x20;servicio.&lt;br&gt;Veinte&amp;#x20;d&amp;#x00ed;as&amp;#x20;h&amp;#x00e1;biles&amp;#x20;para&amp;#x20;los&amp;#x20;funcionarios&amp;#x20;con&amp;#x20;m&amp;#x00e1;s&amp;#x20;de&amp;#x20;quince&amp;#x20;y&amp;#x20;menos&amp;#x20;de&amp;#x20;veinte&amp;#x20;a&amp;#x00f1;os&amp;#x20;de&amp;#x20;servicios.&lt;br&gt;Veinticinco&amp;#x20;d&amp;#x00ed;as&amp;#x20;h&amp;#x00e1;biles&amp;#x20;para&amp;#x20;los&amp;#x20;funcionarios&amp;#x20;con&amp;#x20;veinte&amp;#x20;o&amp;#x20;m&amp;#x00e1;s&amp;#x20;a&amp;#x00f1;os&amp;#x20;de&amp;#x20;servicio.&lt;br&gt;&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="4"/>
+			<slideSpeaker index="0"/>
+			<audios id="4" duration=" 61830">
+				<media url="a24x4x1.mp3" startMsecs="0" duration="61830" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="322" frameRate="30" totalFrames="2427.6" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide5.swf"/>
+			<slideBackground index="1" frameToPlay="7" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<clickAnimations>
+				<clickAnimation start="760" end="821"/>
+				<clickAnimation start="1407" end="1525"/>
+				<clickAnimation start="1610" end="1671"/>
+				<clickAnimation start="1802" end="1863"/>
+				<clickAnimation start="2212" end="2273"/>
+				<clickAnimation start="2287" end="2337"/>
+			</clickAnimations>
+			<slideTitle>@Slide 5@</slideTitle>
+			<notes isHTML="true">5&lt;br&gt;&lt;b&gt;Permisos.&lt;br&gt;&lt;/b&gt;&lt;br&gt;Se&amp;#x20;entiende&amp;#x20;por&amp;#x20;permiso&amp;#x20;la&amp;#x20;ausencia&amp;#x20;transitoria&amp;#x20;de&amp;#x20;la&amp;#x20;Instituci&amp;#x00f3;n&amp;#x20;por&amp;#x20;parte&amp;#x20;de&amp;#x20;un&amp;#x20;funcionario.&lt;br&gt;&lt;br&gt;El&amp;#x20;Jefe&amp;#x20;Superior&amp;#x20;de&amp;#x20;la&amp;#x20;Instituci&amp;#x00f3;n,&amp;#x20;podr&amp;#x00e1;&amp;#x20;conceder&amp;#x20;o&amp;#x20;denegar&amp;#x20;discrecionalmente&amp;#x20;dichos&amp;#x20;permisos.&lt;br&gt;Los&amp;#x20;funcionarios&amp;#x20;podr&amp;#x00e1;n&amp;#x20;solicitar&amp;#x20;permisos&amp;#x20;para&amp;#x20;ausentarse&amp;#x20;de&amp;#x20;sus&amp;#x20;labores&amp;#x20;por&amp;#x20;motivos&amp;#x20;particulares&amp;#x20;hasta&amp;#x20;por&amp;#x20;seis&amp;#x20;d&amp;#x00ed;as&amp;#x20;h&amp;#x00e1;biles&amp;#x20;en&amp;#x20;el&amp;#x20;a&amp;#x00f1;o&amp;#x20;calendario,&amp;#x20;con&amp;#x20;goce&amp;#x20;de&amp;#x20;remuneraciones.&amp;#x20;Estos&amp;#x20;permisos&amp;#x20;podr&amp;#x00e1;n&amp;#x20;fraccionarse&amp;#x20;por&amp;#x20;d&amp;#x00ed;as&amp;#x20;o&amp;#x20;medios&amp;#x20;d&amp;#x00ed;as.&lt;br&gt;El&amp;#x20;funcionario&amp;#x20;podr&amp;#x00e1;&amp;#x20;solicitar&amp;#x20;permiso&amp;#x20;sin&amp;#x20;goce&amp;#x20;de&amp;#x20;remuneraciones,&amp;#x20;presentando&amp;#x20;las&amp;#x20;siguientes&amp;#x20;razones:&lt;br&gt;&lt;br&gt;Por&amp;#x20;motivos&amp;#x20;particulares,&amp;#x20;hasta&amp;#x20;por&amp;#x20;seis&amp;#x20;meses&amp;#x20;en&amp;#x20;cada&amp;#x20;a&amp;#x00f1;o&amp;#x20;calendario,&amp;#x20;y&lt;br&gt;Permiso&amp;#x20;por&amp;#x20;defunci&amp;#x00f3;n.&lt;br&gt;Permiso&amp;#x20;paternal.&lt;br&gt;Para&amp;#x20;permanecer&amp;#x20;en&amp;#x20;el&amp;#x20;extranjero,&amp;#x20;hasta&amp;#x20;por&amp;#x20;dos&amp;#x20;a&amp;#x00f1;os.&amp;#x20;Este&amp;#x20;l&amp;#x00ed;mite&amp;#x20;se&amp;#x00f1;alado&amp;#x20;no&amp;#x20;ser&amp;#x00e1;&amp;#x20;aplicable&amp;#x20;en&amp;#x20;el&amp;#x20;caso&amp;#x20;de&amp;#x20;funcionarios&amp;#x20;que&amp;#x20;obtengan&amp;#x20;becas&amp;#x20;otorgadas&amp;#x20;de&amp;#x20;acuerdo&amp;#x20;a&amp;#x20;la&amp;#x20;legislaci&amp;#x00f3;n&amp;#x20;vigente.&lt;br&gt;&lt;br&gt;&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="5"/>
+			<slideSpeaker index="0"/>
+			<audios id="5" duration=" 80920">
+				<media url="a24x5x1.mp3" startMsecs="0" duration="80920" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="323" frameRate="30" totalFrames="4030.2000000000003" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide6.swf"/>
+			<slideBackground index="1" frameToPlay="9" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<clickAnimations>
+				<clickAnimation start="207" end="295"/>
+				<clickAnimation start="521" end="537"/>
+				<clickAnimation start="1184" end="1245"/>
+				<clickAnimation start="2420" end="2481"/>
+			</clickAnimations>
+			<slideTitle>@Licencias Médicas @</slideTitle>
+			<notes isHTML="true">6&lt;br&gt;&lt;b&gt;Tramitaci&amp;#x00f3;n&amp;#x20;de&amp;#x20;licencias&amp;#x20;m&amp;#x00e9;dicas:&lt;br&gt;&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;En&amp;#x20;caso&amp;#x20;de&amp;#x20;enfermedad&amp;#x20;que&amp;#x20;le&amp;#x20;impida&amp;#x20;asistir&amp;#x20;a&amp;#x20;la&amp;#x20;instituci&amp;#x00f3;n,&amp;#x20;Ud.&amp;#x20;deber&amp;#x00e1;&amp;#x20;presentar&amp;#x20;una&amp;#x20;licencia&amp;#x20;m&amp;#x00e9;dica,&amp;#x20;firmada&amp;#x20;por&amp;#x20;un&amp;#x20;doctor&amp;#x20;competente,&amp;#x20;en&amp;#x20;un&amp;#x20;&lt;b&gt;plazo&amp;#x20;m&amp;#x00e1;ximo&amp;#x20;de&amp;#x20;2&amp;#x20;d&amp;#x00ed;as&amp;#x20;h&amp;#x00e1;biles&amp;#x20;siguientes&amp;#x20;para&amp;#x20;entregarla&amp;#x20;en&amp;#x20;la&amp;#x20;Oficina&amp;#x20;de&amp;#x20;Personal&amp;#x20;de&amp;#x20;su&amp;#x20;Unidad.&lt;br&gt;&lt;/b&gt;&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="6"/>
+			<slideSpeaker index="0"/>
+			<audios id="6" duration=" 134340">
+				<media url="a24x6x1.mp3" startMsecs="0" duration="134340" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="326" frameRate="30" totalFrames="1698.9" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide7.swf"/>
+			<slideBackground index="1" frameToPlay="11" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<clickAnimations>
+				<clickAnimation start="181" end="212"/>
+				<clickAnimation start="453" end="484"/>
+				<clickAnimation start="759" end="790"/>
+				<clickAnimation start="1071" end="1102"/>
+				<clickAnimation start="1338" end="1369"/>
+				<clickAnimation start="1488" end="1519"/>
+			</clickAnimations>
+			<slideTitle>@ OBLIGACIONES DE LOS FUNCIONARIOS  @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="7"/>
+			<slideSpeaker index="0"/>
+			<audios id="7" duration=" 56630">
+				<media url="a24x7x1.mp3" startMsecs="0" duration="56630" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="327" frameRate="30" totalFrames="1447.2" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide8.swf"/>
+			<slideBackground index="1" frameToPlay="13" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<clickAnimations>
+				<clickAnimation start="3" end="17"/>
+				<clickAnimation start="288" end="304"/>
+				<clickAnimation start="447" end="463"/>
+				<clickAnimation start="747" end="763"/>
+				<clickAnimation start="1211" end="1227"/>
+			</clickAnimations>
+			<slideTitle>@ OBLIGACIONES DE LOS FUNCIONARIOS  @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="8"/>
+			<slideSpeaker index="0"/>
+			<audios id="8" duration=" 48240">
+				<media url="a24x8x1.mp3" startMsecs="0" duration="48240" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="329" frameRate="30" totalFrames="1911.8999999999998" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide9.swf"/>
+			<slideBackground index="1" frameToPlay="15" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<clickAnimations>
+				<clickAnimation start="3" end="32"/>
+				<clickAnimation start="300" end="316"/>
+				<clickAnimation start="942" end="958"/>
+				<clickAnimation start="1473" end="1489"/>
+			</clickAnimations>
+			<slideTitle>@ OBLIGACIONES DE LOS FUNCIONARIOS  @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="9"/>
+			<slideSpeaker index="0"/>
+			<audios id="9" duration=" 63730">
+				<media url="a24x9x1.mp3" startMsecs="0" duration="63730" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="330" frameRate="30" totalFrames="2085.9" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide10.swf"/>
+			<slideBackground index="1" frameToPlay="17" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<clickAnimations>
+				<clickAnimation start="136" end="152"/>
+				<clickAnimation start="333" end="391"/>
+				<clickAnimation start="440" end="498"/>
+				<clickAnimation start="774" end="835"/>
+				<clickAnimation start="2085" end="2085"/>
+			</clickAnimations>
+			<slideTitle>@La Jornada de Trabajo (art. 65 y 66). @</slideTitle>
+			<notes isHTML="true">10&lt;br&gt;La&amp;#x20;Jornada&amp;#x20;Ordinaria&amp;#x20;de&amp;#x20;Trabajo.&lt;br&gt;La&amp;#x20;jornada&amp;#x20;normal&amp;#x20;de&amp;#x20;trabajo&amp;#x20;para&amp;#x20;el&amp;#x20;personal&amp;#x20;afecto&amp;#x20;al&amp;#x20;Estatuto&amp;#x20;Administrativo,&amp;#x20;es&amp;#x20;de&amp;#x20;44&amp;#x20;horas&amp;#x20;semanales,&amp;#x20;desarrollada&amp;#x20;en&amp;#x20;d&amp;#x00ed;as&amp;#x20;h&amp;#x00e1;biles&amp;#x20;de&amp;#x20;lunes&amp;#x20;a&amp;#x20;viernes,&amp;#x20;de&amp;#x20;conformidad&amp;#x20;a&amp;#x20;lo&amp;#x20;establecido&amp;#x20;en&amp;#x20;el&amp;#x20;art&amp;#x00ed;culo&amp;#x20;65.&lt;br&gt;&lt;br&gt;&amp;#x00a0;La&amp;#x20;Jornada&amp;#x20;Extraordinaria&amp;#x20;de&amp;#x20;Trabajo.&lt;br&gt;El&amp;#x20;art&amp;#x00ed;culo&amp;#x20;66&amp;#x20;del&amp;#x20;Estatuto&amp;#x20;Administrativo,&amp;#x20;faculta&amp;#x20;al&amp;#x20;Jefe&amp;#x20;superior&amp;#x20;de&amp;#x20;la&amp;#x20;Instituci&amp;#x00f3;n&amp;#x20;a&amp;#x20;ordenar&amp;#x20;trabajos&amp;#x20;extraordinarios&amp;#x20;a&amp;#x20;continuaci&amp;#x00f3;n&amp;#x20;de&amp;#x20;la&amp;#x20;jornada&amp;#x20;ordinaria,&amp;#x20;de&amp;#x20;noche&amp;#x20;o&amp;#x20;en&amp;#x20;d&amp;#x00ed;as&amp;#x20;s&amp;#x00e1;bado,&amp;#x20;domingo&amp;#x20;y&amp;#x20;festivos,&amp;#x20;cuando&amp;#x20;hayan&amp;#x20;de&amp;#x20;cumplirse&amp;#x20;tareas&amp;#x20;impostergables.&lt;br&gt;-&amp;#x20;Los&amp;#x20;trabajos&amp;#x20;extraordinarios&amp;#x20;se&amp;#x20;compensar&amp;#x00e1;n&amp;#x20;con&amp;#x20;descanso&amp;#x20;complementario.&amp;#x20;Si&amp;#x20;ello&amp;#x20;no&amp;#x20;fuere&amp;#x20;posible&amp;#x20;por&amp;#x20;razones&amp;#x20;de&amp;#x20;buen&amp;#x20;servicio,&amp;#x20;aquellos&amp;#x20;ser&amp;#x00e1;n&amp;#x20;compensados&amp;#x20;con&amp;#x20;un&amp;#x20;recargo&amp;#x20;en&amp;#x20;las&amp;#x20;remuneraciones.&lt;br&gt;&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="10"/>
+			<slideSpeaker index="0"/>
+			<audios id="10" duration=" 69530">
+				<media url="a24x10x1.mp3" startMsecs="0" duration="69530" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="351" frameRate="30" totalFrames="150" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide11.swf"/>
+			<slideBackground index="1" frameToPlay="19" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>@Evaluación  @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="11"/>
+		</slide>
+		<slide id="352" frameRate="30" totalFrames="150" advance="never" blockMovement="false" type="quiz" quiz="10393" group="-1" showInTOC="false">
+			<questions>
+				<question index=" 10398 " weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="false"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide12.swf"/>
+			<slideBackground index="1" frameToPlay="21" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>@Complete la oración @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="12"/>
+		</slide>
+		<slide id="353" frameRate="30" totalFrames="150" advance="never" blockMovement="false" type="quiz" quiz="10393" group="-1" showInTOC="false">
+			<questions>
+				<question index=" 10418 " weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="false"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide13.swf"/>
+			<slideBackground index="1" frameToPlay="23" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>@Complete la frase siguiente rellenando los espacios en blanco. @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="13"/>
+		</slide>
+		<slide id="354" frameRate="30" totalFrames="150" advance="never" blockMovement="false" type="quiz" quiz="10393" group="-1" showInTOC="false">
+			<questions>
+				<question index=" 10433 " weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="false"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide14.swf"/>
+			<slideBackground index="1" frameToPlay="25" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>@Complete la frase siguiente rellenando los espacios en blanco. @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="14"/>
+		</slide>
+		<slide id="355" frameRate="30" totalFrames="150" advance="never" blockMovement="false" type="quiz" quiz="10393" group="-1" showInTOC="false">
+			<questions>
+				<question index=" 10445 " weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="false"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide15.swf"/>
+			<slideBackground index="1" frameToPlay="27" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>@Complete la frase siguiente rellenando los espacios en blanco. @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="15"/>
+		</slide>
+		<slide id="356" frameRate="30" totalFrames="150" advance="never" blockMovement="false" type="quiz" quiz="10393" group="-1" showInTOC="false">
+			<questions>
+				<question index=" 10466 " weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="false"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide16.swf"/>
+			<slideBackground index="1" frameToPlay="29" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>@Complete la frase siguiente rellenando los espacios en blanco. @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="16"/>
+		</slide>
+		<slide id="365" frameRate="30" totalFrames="150" advance="never" blockMovement="false" type="quiz" quiz="10393" group="-1" showInTOC="false">
+			<questions>
+				<question index=" 10562 " weight="10" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="false"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide17.swf"/>
+			<slideBackground index="1" frameToPlay="31" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>@SE ENTIENDE POR FERIADO LEGAL, el descanso a que tiene derecho el funcionario, con goce de todas las remuneraciones durante el tiempo y bajo las condiciones que más adelante se establecen para cada año calendario y será de:  I. Quince días hábiles para los funcionarios con menos de quince años de servicio. II. Veinte días hábiles para los funcionarios con más de quince y menos de veinte años de servicios. III. Veintiún días para aquellos que provengan del servicio público. IV. Veinticinco días hábiles para los funcionarios con veinte o más años de servicio. V. Diez días hábiles para aquellos que no tendiendo derecho, lo soliciten.  @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="17"/>
+		</slide>
+		<slide id="357" frameRate="30" totalFrames="150" advance="never" blockMovement="false" type="scoring" quiz=" 10393 " showInTOC="false">
+			<content url="Slide18.swf"/>
+			<slideBackground index="1" frameToPlay="33" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>@Prueba1 @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="18"/>
+		</slide>
+		<slide id="331" frameRate="30" totalFrames="5154.900000000001" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide19.swf"/>
+			<slideBackground index="1" frameToPlay="35" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<clickAnimations>
+				<clickAnimation start="166" end="182"/>
+				<clickAnimation start="507" end="523"/>
+				<clickAnimation start="749" end="765"/>
+				<clickAnimation start="1460" end="1476"/>
+				<clickAnimation start="1942" end="1958"/>
+				<clickAnimation start="2281" end="2297"/>
+				<clickAnimation start="2548" end="2564"/>
+				<clickAnimation start="2830" end="2846"/>
+				<clickAnimation start="3330" end="3346"/>
+				<clickAnimation start="3776" end="3837"/>
+				<clickAnimation start="3956" end="3972"/>
+				<clickAnimation start="4447" end="4463"/>
+			</clickAnimations>
+			<slideTitle>@PROHIBICIONES FUNCIONARIAS (artículo 84) @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="19"/>
+			<slideSpeaker index="0"/>
+			<audios id="11" duration=" 171830">
+				<media url="a24x11x1.mp3" startMsecs="0" duration="171830" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="340" frameRate="30" totalFrames="150" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide20.swf"/>
+			<slideBackground index="1" frameToPlay="37" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>@PROHIBICIONES FUNCIONARIAS  @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="20"/>
+		</slide>
+		<slide id="341" frameRate="30" totalFrames="150" advance="never" blockMovement="false" type="quiz" quiz="10312" group="-1" showInTOC="false">
+			<questions>
+				<question index=" 10317 " weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="false"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide21.swf"/>
+			<slideBackground index="1" frameToPlay="39" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>@Las prohibiciones están establecidas en el artículo 84º del Estatuto Administrativo.  Seleccione la alternativa A o B , según corresponda a una PROHIBICIÓN @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="21"/>
+		</slide>
+		<slide id="342" frameRate="30" totalFrames="150" advance="never" blockMovement="false" type="quiz" quiz="10312" group="-1" showInTOC="false">
+			<questions>
+				<question index=" 10325 " weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="false"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide22.swf"/>
+			<slideBackground index="1" frameToPlay="41" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>@Las prohibiciones están establecidas en el artículo 84º del Estatuto Administrativo.  Seleccione la alternativa A o B , según corresponda a una PROHIBICIÓN @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="22"/>
+		</slide>
+		<slide id="343" frameRate="30" totalFrames="150" advance="never" blockMovement="false" type="quiz" quiz="10312" group="-1" showInTOC="false">
+			<questions>
+				<question index=" 10333 " weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="false"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide23.swf"/>
+			<slideBackground index="1" frameToPlay="43" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>@Las prohibiciones están establecidas en el artículo 84º del Estatuto Administrativo.  Seleccione la alternativa A o B , según corresponda a una PROHIBICIÓN @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="23"/>
+		</slide>
+		<slide id="344" frameRate="30" totalFrames="150" advance="never" blockMovement="false" type="quiz" quiz="10312" group="-1" showInTOC="false">
+			<questions>
+				<question index=" 10341 " weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="false"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide24.swf"/>
+			<slideBackground index="1" frameToPlay="45" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>@Las prohibiciones están establecidas en el artículo 84º del Estatuto Administrativo. Seleccione la alternativa A o B , según corresponda a una PROHIBICIÓN @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="24"/>
+		</slide>
+		<slide id="345" frameRate="30" totalFrames="150" advance="never" blockMovement="false" type="quiz" quiz="10312" group="-1" showInTOC="false">
+			<questions>
+				<question index=" 10349 " weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="false"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide25.swf"/>
+			<slideBackground index="1" frameToPlay="47" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>@Las prohibiciones están establecidas en el artículo 84º del Estatuto Administrativo.  Seleccione la alternativa A o B , según corresponda a una PROHIBICIÓN @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="25"/>
+		</slide>
+		<slide id="346" frameRate="30" totalFrames="150" advance="never" blockMovement="false" type="quiz" quiz="10312" group="-1" showInTOC="false">
+			<questions>
+				<question index=" 10357 " weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="false"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide26.swf"/>
+			<slideBackground index="1" frameToPlay="49" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>@Las prohibiciones están establecidas en el artículo 84º del Estatuto Administrativo.  Seleccione la alternativa A o B , según corresponda a una PROHIBICIÓN @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="26"/>
+		</slide>
+		<slide id="347" frameRate="30" totalFrames="150" advance="never" blockMovement="false" type="quiz" quiz="10312" group="-1" showInTOC="false">
+			<questions>
+				<question index=" 10365 " weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="false"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide27.swf"/>
+			<slideBackground index="1" frameToPlay="51" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>@Las prohibiciones están establecidas en el artículo 84º del Estatuto Administrativo.  Seleccione la alternativa A o B , según corresponda a una PROHIBICIÓN @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="27"/>
+		</slide>
+		<slide id="348" frameRate="30" totalFrames="150" advance="never" blockMovement="false" type="quiz" quiz="10312" group="-1" showInTOC="false">
+			<questions>
+				<question index=" 10373 " weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="false"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide28.swf"/>
+			<slideBackground index="1" frameToPlay="53" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>@Las prohibiciones están establecidas en el artículo 84º del Estatuto Administrativo.  Seleccione la alternativa A o B , según corresponda a una PROHIBICIÓN @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="28"/>
+		</slide>
+		<slide id="349" frameRate="30" totalFrames="150" advance="never" blockMovement="false" type="quiz" quiz="10312" group="-1" showInTOC="false">
+			<questions>
+				<question index=" 10381 " weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="false"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide29.swf"/>
+			<slideBackground index="1" frameToPlay="55" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>@Las prohibiciones están establecidas en el artículo 84º del Estatuto Administrativo.  Seleccione la alternativa A o B , según corresponda a una PROHIBICIÓN @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="29"/>
+		</slide>
+		<slide id="350" frameRate="30" totalFrames="150" advance="never" blockMovement="false" type="scoring" quiz=" 10312 " showInTOC="false">
+			<content url="Slide30.swf"/>
+			<slideBackground index="1" frameToPlay="57" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>@Prueba2 @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="30"/>
+		</slide>
+		<slide id="332" frameRate="30" totalFrames="487.19999999999993" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide31.swf"/>
+			<slideBackground index="1" frameToPlay="59" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<clickAnimations>
+				<clickAnimation start="133" end="149"/>
+			</clickAnimations>
+			<slideTitle>@DE INTERÉS @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="31"/>
+			<slideSpeaker index="0"/>
+			<audios id="12" duration=" 16240">
+				<media url="a24x12x1.mp3" startMsecs="0" duration="16240" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="333" frameRate="30" totalFrames="1194.8999999999998" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide32.swf"/>
+			<slideBackground index="1" frameToPlay="61" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<clickAnimations>
+				<clickAnimation start="88" end="104"/>
+				<clickAnimation start="714" end="730"/>
+			</clickAnimations>
+			<slideTitle>@…entre los artículos 85 y 88  @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="32"/>
+			<slideSpeaker index="0"/>
+			<audios id="13" duration=" 39830">
+				<media url="a24x13x1.mp3" startMsecs="0" duration="39830" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="334" frameRate="30" totalFrames="1990.4999999999997" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide33.swf"/>
+			<slideBackground index="1" frameToPlay="63" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<clickAnimations>
+				<clickAnimation start="286" end="344"/>
+				<clickAnimation start="480" end="511"/>
+				<clickAnimation start="722" end="753"/>
+				<clickAnimation start="1016" end="1047"/>
+				<clickAnimation start="1193" end="1224"/>
+				<clickAnimation start="1517" end="1548"/>
+			</clickAnimations>
+			<slideTitle>@Slide 33@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="33"/>
+			<slideSpeaker index="0"/>
+			<audios id="14" duration=" 66350">
+				<media url="a24x14x1.mp3" startMsecs="0" duration="66350" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="335" frameRate="30" totalFrames="2566.5" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide34.swf"/>
+			<slideBackground index="1" frameToPlay="65" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<clickAnimations>
+				<clickAnimation start="405" end="421"/>
+				<clickAnimation start="1442" end="1458"/>
+				<clickAnimation start="2359" end="2375"/>
+			</clickAnimations>
+			<slideTitle>@Slide 34@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="34"/>
+			<slideSpeaker index="0"/>
+			<audios id="15" duration=" 85550">
+				<media url="a24x15x1.mp3" startMsecs="0" duration="85550" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="336" frameRate="30" totalFrames="3567.9" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide35.swf"/>
+			<slideBackground index="1" frameToPlay="67" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<clickAnimations>
+				<clickAnimation start="88" end="119"/>
+				<clickAnimation start="1052" end="1083"/>
+				<clickAnimation start="1580" end="1611"/>
+				<clickAnimation start="2633" end="2664"/>
+			</clickAnimations>
+			<slideTitle>@Slide 35@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="35"/>
+			<slideSpeaker index="0"/>
+			<audios id="16" duration=" 118930">
+				<media url="a24x16x1.mp3" startMsecs="0" duration="118930" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="338" frameRate="30" totalFrames="1347.9" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide36.swf"/>
+			<slideBackground index="1" frameToPlay="69" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<clickAnimations>
+				<clickAnimation start="76" end="107"/>
+				<clickAnimation start="264" end="416"/>
+				<clickAnimation start="912" end="943"/>
+			</clickAnimations>
+			<slideTitle>@Slide 36@</slideTitle>
+			<notes isHTML="true">36&lt;br&gt;&lt;b&gt;Bienestar&amp;#x20;social:&lt;br&gt;&lt;/b&gt;El&amp;#x20;Departamento&amp;#x20;Bienestar&amp;#x20;Social&amp;#x20;tiene&amp;#x20;como&amp;#x20;premisa&amp;#x20;que&amp;#x20;el&amp;#x20;ser&amp;#x20;humano&amp;#x20;por&amp;#x20;excelencia&amp;#x20;constituye&amp;#x20;el&amp;#x20;eje&amp;#x20;central&amp;#x20;de&amp;#x20;todos&amp;#x20;los&amp;#x20;procesos&amp;#x20;de&amp;#x20;desarrollo.&lt;br&gt;Por&amp;#x20;esto&amp;#x20;busca&amp;#x20;otorgar&amp;#x20;un&amp;#x20;bienestar&amp;#x20;integral&amp;#x20;al&amp;#x20;personal&amp;#x20;aeron&amp;#x00e1;utico&amp;#x20;y&amp;#x20;grupo&amp;#x20;familiar,&amp;#x20;proporcionando&amp;#x20;cobertura&amp;#x20;en&amp;#x20;aspectos&amp;#x20;de:&amp;#x20;Asistencia&amp;#x20;Social,&amp;#x20;Econ&amp;#x00f3;micos,&amp;#x20;Deportivos,&amp;#x20;Recreacionales,&amp;#x20;Habitacionales,&amp;#x20;Culturales&amp;#x20;y&amp;#x20;complementarios&amp;#x20;de&amp;#x20;salud.&amp;#x20;&lt;br&gt;(Desde&amp;#x20;enero&amp;#x20;del&amp;#x20;a&amp;#x00f1;o&amp;#x20;2005&amp;#x20;se&amp;#x20;establece&amp;#x20;una&amp;#x20;Pol&amp;#x00ed;tica&amp;#x20;de&amp;#x20;Cofinanciamiento&amp;#x20;y&amp;#x20;participaci&amp;#x00f3;n&amp;#x20;de&amp;#x20;los&amp;#x20;funcionarios&amp;#x20;mediante&amp;#x20;el&amp;#x20;APORTE&amp;#x20;VOLUNTARIO&amp;#x20;DEL&amp;#x20;1%&amp;#x20;)&lt;br&gt;&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="36"/>
+			<slideSpeaker index="0"/>
+			<audios id="17" duration=" 44930">
+				<media url="a24x17x1.mp3" startMsecs="0" duration="44930" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="339" frameRate="30" totalFrames="1831.2" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide37.swf"/>
+			<slideBackground index="1" frameToPlay="71" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<clickAnimations>
+				<clickAnimation start="3" end="112"/>
+				<clickAnimation start="113" end="144"/>
+				<clickAnimation start="1024" end="1055"/>
+				<clickAnimation start="1254" end="1285"/>
+				<clickAnimation start="1440" end="1471"/>
+				<clickAnimation start="1587" end="1618"/>
+			</clickAnimations>
+			<slideTitle>@Slide 37@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="37"/>
+			<slideSpeaker index="0"/>
+			<audios id="18" duration=" 61040">
+				<media url="a24x18x1.mp3" startMsecs="0" duration="61040" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="366" frameRate="30" totalFrames="150" advance="never" blockMovement="false" type="quiz" quiz="10484" group="-1" showInTOC="false">
+			<questions>
+				<question index=" 10577 " weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="false"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide38.swf"/>
+			<slideBackground index="1" frameToPlay="73" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>@El cofinanciamiento como aporte voluntario a Bienestar Social es de: @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="38"/>
+		</slide>
+		<slide id="367" frameRate="30" totalFrames="150" advance="never" blockMovement="false" type="quiz" quiz="10484" group="-1" showInTOC="false">
+			<questions>
+				<question index=" 10578 " weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="false"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide39.swf"/>
+			<slideBackground index="1" frameToPlay="75" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>@SIGERH es: @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="39"/>
+		</slide>
+		<slide id="370" frameRate="30" totalFrames="150" advance="never" blockMovement="false" type="quiz" quiz="10484" group="-1" showInTOC="false">
+			<questions>
+				<question index=" 10583 " weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="false"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide40.swf"/>
+			<slideBackground index="1" frameToPlay="77" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>@Los funcionarios de la DGAC pueden acceder a sus liquidaciones de sueldo mediante internet, en el SIGERH @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="40"/>
+		</slide>
+		<slide id="369" frameRate="30" totalFrames="150" advance="never" blockMovement="false" type="scoring" quiz=" 10484 " showInTOC="false">
+			<content url="Slide41.swf"/>
+			<slideBackground index="1" frameToPlay="79" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>@Prueba @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="41"/>
+		</slide>
+		<slide id="371" frameRate="30" totalFrames="244.5" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide42.swf"/>
+			<slideBackground index="1" frameToPlay="81" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>@FELICITACIONES  UD APROBÓ ESTE CAPÍTULO. PRONTO SE PUBLICARÁ EL CAPÍTULO FINAL @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="42"/>
+			<audios id="19" duration=" 8150">
+				<media url="a24x19x1.mp3" startMsecs="0" duration="8150" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+	</slides>
+	<quizzes>
+		<reportingOptions statusReportingOption="0" successReportingCriteria="-1" completionReportingCriteria="-1" slideViewCompletionCriteria="-1" slideViewSuccessCriteria="-1" quizCompletionCriteria="-1" quizSuccessCriteria="-1" completionCriteriaSlideViewVal="0" successCriteriaSlideViewVal="0" dataToReport="1" exitNormal="0" isTracked="true" LMSType="SCORM_1_2" AuthorwareDelimeter="," trackingLevel="interactions" completionValueToSend="default" completionTrigger="quiz_and_views" trackingURLEncodeVersionAndSession="true" trackingCharsToNotUrlEncode="" trackingSendInterval="1" completionSlideViewPercentage="100" trackingSendResumeData="true" sendScoreAsPercent="true"></reportingOptions>
+		<quizSettings showQuestionList="true" showScores="true" showPassScore="true" showCurrentScore="true" showQuestionMarks="true" showAttempts="true" showQuizAttempts="true" showQuestionAttempts="true" showQuestionCorrectFeedback="true" showQuestionIncorrectFeedback="true" showQuizNavigationWarning="true"></quizSettings>
+		<quiz quizID="10393" title="Prueba1" numQuizAttemptsAllowed="3" minScore="0" passingScore="80" percent="true" passingGradeAction="nextSlide" passingGradeActionArg1="" passingGradeActionArg2="" failingGradeAction="gotoSlide" failingGradeActionArg1="256" failingGradeActionArg2="" questionAdvance="optional" quizAdvance="mustTake" showProgress="minimal" allowBackwardMovementInQuiz="true" allowReviewMode="true" passedScoreFeedback="Aprobado" failedScoreFeedback="Suspenso" shuffleQuestions="0">
+			<questiongroups></questiongroups>
+		</quiz>
+		<quiz quizID="10312" title="Prueba2" numQuizAttemptsAllowed="3" minScore="0" passingScore="80" percent="true" passingGradeAction="nextSlide" passingGradeActionArg1="" passingGradeActionArg2="" failingGradeAction="gotoSlide" failingGradeActionArg1="331" failingGradeActionArg2="" questionAdvance="optional" quizAdvance="mustTake" showProgress="minimal" allowBackwardMovementInQuiz="true" allowReviewMode="true" passedScoreFeedback="Aprobado" failedScoreFeedback="Suspenso" shuffleQuestions="0">
+			<questiongroups></questiongroups>
+		</quiz>
+		<quiz quizID="10484" title="Prueba" numQuizAttemptsAllowed="3" minScore="0" passingScore="80" percent="true" passingGradeAction="nextSlide" passingGradeActionArg1="" passingGradeActionArg2="0" failingGradeAction="gotoSlide" failingGradeActionArg1="332" failingGradeActionArg2="0" questionAdvance="optional" quizAdvance="mustTake" showProgress="minimal" allowBackwardMovementInQuiz="true" allowReviewMode="true" passedScoreFeedback="Aprobado" failedScoreFeedback="Suspenso" shuffleQuestions="0">
+			<questiongroups></questiongroups>
+		</quiz>
+	</quizzes>
+	<attachments></attachments>
+</presentation>

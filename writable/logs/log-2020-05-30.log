@@ -1,0 +1,12 @@
+CRITICAL - 2020-05-30 00:57:05 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.`nombre`, `grupo`.`descripcion`, `grupo`.`top5_activo`, `grupo`.`inactivo`
+FROM' at line 1
+#0 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/MySQLi/Connection.php(331): mysqli->query('SELECT `distinc...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `distinc...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `distinc...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/Database/BaseBuilder.php(1845): CodeIgniter\Database\BaseConnection->query('SELECT `distinc...', Array, false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/app/Controllers/Comunidad.php(17): CodeIgniter\Database\BaseBuilder->get()
+#5 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(914): App\Controllers\Comunidad->index()
+#6 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comunidad))
+#7 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /Applications/XAMPP/xamppfiles/htdocs/codeigniter-dgac/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}

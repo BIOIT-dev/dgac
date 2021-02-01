@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="Induccion_P1" version="1.0" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<metadata>
+		<schema>ADL SCORM</schema>
+		<schemaversion>1.2</schemaversion>
+		<lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1">
+			<general>
+				<title>
+					<langstring xml:lang="x-none">Curso Inducción</langstring>
+				</title>
+				<catalogentry>
+					<catalog>Adobe Presenter Course</catalog>
+					<entry>
+						<langstring xml:lang="x-none">Induccion_P1</langstring>
+					</entry>
+				</catalogentry>
+				<description>
+					<langstring xml:lang="x-none"></langstring>
+				</description>
+			</general>
+			<lifecycle>
+				<version>
+					<langstring xml:lang="x-none">1.0</langstring>
+				</version>
+				<status>
+					<source>
+						<langstring xml:lang="x-none">LOMv1.0</langstring>
+					</source>
+					<value>
+						<langstring xml:lang="x-none">Final</langstring>
+					</value>
+				</status>
+			</lifecycle>
+			<metametadata>
+				<metadatascheme>ADL SCORM 1.2</metadatascheme>
+			</metametadata>
+			<technical>
+				<format>text/html</format>
+				<location>.</location>
+			</technical>
+			<rights>
+				<cost>
+					<source>
+						<langstring xml:lang="x-none">LOMv1.10</langstring>
+					</source>
+					<value>
+						<langstring xml:lang="x-none">no</langstring>
+					</value>
+				</cost>
+				<copyrightandotherrestrictions>
+					<source>
+						<langstring xml:lang="x-none">LOMv1.10</langstring>
+					</source>
+					<value>
+						<langstring xml:lang="x-none">no</langstring>
+					</value>
+				</copyrightandotherrestrictions>
+			</rights>
+			<classification>
+				<purpose>
+					<source>
+						<langstring xml:lang="x-none">LOMv1.0</langstring>
+					</source>
+					<value>
+						<langstring xml:lang="x-none">Idea</langstring>
+					</value>
+				</purpose>
+				<description>
+					<langstring xml:lang="x-none"></langstring>
+				</description>
+				<keyword>
+					<langstring xml:lang="x-none">Adobe Presenter</langstring>
+				</keyword>
+			</classification>
+		</lom>
+	</metadata>
+	<organizations default="Induccion_P1_ORG">
+		<organization identifier="Induccion_P1_ORG">
+			<title>Curso Inducción</title>
+			<item identifier="Induccion_P1" isvisible="true" identifierref="Induccion_P1_RES">
+				<title>Curso Inducción</title>
+				<adlcp:masteryscore>80</adlcp:masteryscore>
+			</item>
+		</organization>
+	</organizations>
+	<resources>
+		<resource identifier="Induccion_P1_RES" type="webcontent" href="SCORM.htm" adlcp:scormtype="sco">
+			<file href="as2-wrapper.swf"/>
+			<file href="breeze-manifest.xml"/>
+			<file href="browsersniff.js"/>
+			<file href="components.swf"/>
+			<file href="data/a24x10x1.mp3"/>
+			<file href="data/a24x11x1.mp3"/>
+			<file href="data/a24x12x1.mp3"/>
+			<file href="data/a24x13x1.mp3"/>
+			<file href="data/a24x14x1.mp3"/>
+			<file href="data/a24x15x1.mp3"/>
+			<file href="data/a24x16x1.mp3"/>
+			<file href="data/a24x17x1.mp3"/>
+			<file href="data/a24x18x1.mp3"/>
+			<file href="data/a24x19x1.mp3"/>
+			<file href="data/a24x1x1.mp3"/>
+			<file href="data/a24x2x1.mp3"/>
+			<file href="data/a24x3x1.mp3"/>
+			<file href="data/a24x4x1.mp3"/>
+			<file href="data/a24x5x1.mp3"/>
+			<file href="data/a24x6x1.mp3"/>
+			<file href="data/a24x7x1.mp3"/>
+			<file href="data/a24x8x1.mp3"/>
+			<file href="data/a24x9x1.mp3"/>
+			<file href="data/connectmobile.dat"/>
+			<file href="data/html/presenter.libs.js"/>
+			<file href="data/Master80000000.swf"/>
+			<file href="data/Master80000105.swf"/>
+			<file href="data/Slide1.swf"/>
+			<file href="data/Slide10.swf"/>
+			<file href="data/Slide11.swf"/>
+			<file href="data/Slide12.swf"/>
+			<file href="data/Slide13.swf"/>
+			<file href="data/Slide14.swf"/>
+			<file href="data/Slide15.swf"/>
+			<file href="data/Slide16.swf"/>
+			<file href="data/Slide17.swf"/>
+			<file href="data/Slide18.swf"/>
+			<file href="data/Slide19.swf"/>
+			<file href="data/Slide2.swf"/>
+			<file href="data/Slide20.swf"/>
+			<file href="data/Slide21.swf"/>
+			<file href="data/Slide22.swf"/>
+			<file href="data/Slide23.swf"/>
+			<file href="data/Slide24.swf"/>
+			<file href="data/Slide25.swf"/>
+			<file href="data/Slide26.swf"/>
+			<file href="data/Slide27.swf"/>
+			<file href="data/Slide28.swf"/>
+			<file href="data/Slide29.swf"/>
+			<file href="data/Slide3.swf"/>
+			<file href="data/Slide30.swf"/>
+			<file href="data/Slide31.swf"/>
+			<file href="data/Slide32.swf"/>
+			<file href="data/Slide33.swf"/>
+			<file href="data/Slide34.swf"/>
+			<file href="data/Slide35.swf"/>
+			<file href="data/Slide36.swf"/>
+			<file href="data/Slide37.swf"/>
+			<file href="data/Slide38.swf"/>
+			<file href="data/Slide39.swf"/>
+			<file href="data/Slide4.swf"/>
+			<file href="data/Slide40.swf"/>
+			<file href="data/Slide41.swf"/>
+			<file href="data/Slide42.swf"/>
+			<file href="data/Slide5.swf"/>
+			<file href="data/Slide6.swf"/>
+			<file href="data/Slide7.swf"/>
+			<file href="data/Slide8.swf"/>
+			<file href="data/Slide9.swf"/>
+			<file href="data/srchdata.xml"/>
+			<file href="data/thumb.swf"/>
+			<file href="data/vconfig.xml"/>
+			<file href="data/viewer.xml"/>
+			<file href="metadata/trackdta.xml"/>
+			<file href="SCORM.htm"/>
+			<file href="scormdriver.js"/>
+			<file href="SCORM_utilities.js"/>
+			<file href="standard.js"/>
+			<file href="Utilities.js"/>
+			<file href="viewer.swf"/>
+			<file href="index.htm"/>
+		</resource>
+	</resources>
+</manifest>
